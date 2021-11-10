@@ -1,0 +1,127 @@
+﻿GOID,Term
+GO:0051002,"ligase activity, forming nitrogen-metal bonds"
+GO:0051003,"ligase activity, forming nitrogen-metal bonds, forming coordination complexes"
+GO:0051540,metal cluster binding
+GO:0051221,tungsten incorporation into metallo-sulfur cluster
+GO:0051238,sequestering of metal ion
+GO:0051139,metal ion:proton antiporter activity
+GO:1905050,positive regulation of metallopeptidase activity
+GO:1905048,regulation of metallopeptidase activity
+GO:1905049,negative regulation of metallopeptidase activity
+GO:1904465,negative regulation of matrix metallopeptidase secretion
+GO:1904464,regulation of matrix metallopeptidase secretion
+GO:1904466,positive regulation of matrix metallopeptidase secretion
+GO:1904685,positive regulation of metalloendopeptidase activity
+GO:1904684,negative regulation of metalloendopeptidase activity
+GO:1904683,regulation of metalloendopeptidase activity
+GO:0031420,alkali metal ion binding
+GO:0071248,cellular response to metal ion
+GO:0010038,response to metal ion
+GO:0090423,phytochelatin-metal complex formation
+GO:0090424,phytochelatin-metal-sulfur complex formation
+GO:0140492,metal-dependent deubiquitinase activity
+GO:0140487,metal ion sequestering activity
+GO:0018414,nickel incorporation into metallo-sulfur cluster
+GO:0018427,copper incorporation into metallo-sulfur cluster
+GO:0030001,metal ion transport
+GO:0046873,metal ion transmembrane transporter activity
+GO:0046872,metal ion binding
+GO:0046916,cellular transition metal ion homeostasis
+GO:0046911,metal chelating activity
+GO:0046914,transition metal ion binding
+GO:0046915,transition metal ion transmembrane transporter activity
+GO:0030923,metal incorporation into metallo-oxygen cluster
+GO:0030925,calcium incorporation into metallo-oxygen cluster
+GO:0030924,manganese incorporation into metallo-oxygen cluster
+GO:0030927,manganese incorporation into metallo-oxygen cluster via bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide
+GO:0030926,calcium incorporation into metallo-oxygen cluster via bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide
+GO:0030946,"protein tyrosine phosphatase activity, metal-dependent"
+GO:0070006,metalloaminopeptidase activity
+GO:1990773,matrix metallopeptidase secretion
+GO:0042040,metal incorporation into metallo-molybdopterin complex
+GO:0042039,vanadium incorporation into metallo-sulfur cluster
+GO:0016722,"oxidoreductase activity, acting on metal ions"
+GO:0016723,"oxidoreductase activity, acting on metal ions, NAD or NADP as acceptor"
+GO:0016724,"oxidoreductase activity, acting on metal ions, oxygen as acceptor"
+GO:0016530,metallochaperone activity
+GO:0070839,metal ion export
+GO:1902695,metallochaperone complex
+GO:1902962,regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process
+GO:1902963,negative regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process
+GO:1902964,positive regulation of metalloendopeptidase activity involved in amyloid precursor protein catabolic process
+GO:1902945,metalloendopeptidase activity involved in amyloid precursor protein catabolic process
+GO:0006875,cellular metal ion homeostasis
+GO:0018289,molybdenum incorporation into metallo-sulfur cluster
+GO:0018282,metal incorporation into metallo-sulfur cluster
+GO:0018283,iron incorporation into metallo-sulfur cluster
+GO:0070573,metallodipeptidase activity
+GO:0004023,"alcohol dehydrogenase activity, metal ion-independent"
+GO:0004222,metalloendopeptidase activity
+GO:0004181,metallocarboxypeptidase activity
+GO:0043783,"oxidoreductase activity, acting on metal ions, flavin as acceptor"
+GO:0097501,stress response to metal ion
+GO:0008191,metalloendopeptidase inhibitor activity
+GO:0031162,sulfur incorporation into metallo-sulfur cluster
+GO:0031163,metallo-sulfur cluster assembly
+GO:0008237,metallopeptidase activity
+GO:0008235,metalloexopeptidase activity
+GO:0055065,metal ion homeostasis
+GO:0055076,transition metal ion homeostasis
+GO:1990267,response to transition metal nanoparticle
+GO:0000041,transition metal ion transport
+GO:0010959,regulation of metal ion transport
+GO:0051206,silicate metabolic process
+GO:0051981,copper chelate transmembrane transporter activity
+GO:0031942,i-AAA complex
+GO:0071052,alpha9-beta1 integrin-ADAM1 complex
+GO:0071055,alpha9-beta1 integrin-ADAM9 complex
+GO:0071056,alpha9-beta1 integrin-ADAM15 complex
+GO:0071053,alpha9-beta1 integrin-ADAM2 complex
+GO:0071054,alpha9-beta1 integrin-ADAM3 complex
+GO:0071057,alphav-beta3 integrin-ADAM15 complex
+GO:0071067,alphav-beta3 integrin-ADAM23 complex
+GO:0071068,alpha9-beta1 integrin-ADAM12 complex
+GO:0071133,alpha9-beta1 integrin-ADAM8 complex
+GO:0071100,alphaV-beta8 integrin-MMP14-TGFbeta-1 complex
+GO:0061007,hepaticobiliary system process
+GO:0061008,hepaticobiliary system development
+GO:0035445,borate transmembrane transport
+GO:0050790,regulation of catalytic activity
+GO:0050787,detoxification of mercury ion
+GO:0050696,trichloroethylene catabolic process
+GO:0030234,enzyme regulator activity
+GO:0044604,ABC-type phytochelatin transporter activity
+GO:0071836,nectar secretion
+GO:0046713,borate transport
+GO:0046938,phytochelatin biosynthetic process
+GO:0046937,phytochelatin metabolic process
+GO:0071994,phytochelatin transmembrane transport
+GO:0071995,phytochelatin import into vacuole
+GO:0071993,phytochelatin transport
+GO:0098769,TIMP family protein binding
+GO:1990660,calprotectin complex
+GO:1990850,H-gal-GP complex
+GO:0017090,meprin A complex
+GO:0003700,DNA-binding transcription factor activity
+GO:0016610,nitrogenase complex
+GO:0043624,cellular protein complex disassembly
+GO:0018315,molybdenum incorporation into molybdenum-molybdopterin complex
+GO:0043086,negative regulation of catalytic activity
+GO:0043085,positive regulation of catalytic activity
+GO:0018934,nitrilotriacetate metabolic process
+GO:0018942,organometal metabolic process
+GO:0018979,trichloroethylene metabolic process
+GO:0004857,enzyme inhibitor activity
+GO:0008047,enzyme activator activity
+GO:0016226,iron-sulfur cluster assembly
+GO:0001217,DNA-binding transcription repressor activity
+GO:0001216,DNA-binding transcription activator activity
+GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific"
+GO:0001227,"DNA-binding transcription repressor activity, RNA polymerase II-specific"
+GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+GO:0140663,ATP-dependent FeS chaperone activity
+GO:0015295,solute:proton symporter activity
+GO:0015291,secondary active transmembrane transporter activity
+GO:0015115,silicate transmembrane transporter activity
+GO:0015708,silicic acid import across plasma membrane
+GO:0015603,iron chelate transmembrane transporter activity

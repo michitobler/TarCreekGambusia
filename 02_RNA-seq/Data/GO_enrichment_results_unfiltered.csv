@@ -1,0 +1,951 @@
+﻿tissue,direction_of_diff_expression,GO_term,Description,P-value,FDR q-value,Enrichment,N,B,n,b
+gill,upregulated,GO:0009653,anatomical structure morphogenesis,4.91E-08,7.18E-04,1.65,11186,994,748,110
+gill,upregulated,GO:0048856,anatomical structure development,8.46E-08,6.18E-04,1.39,11186,2218,748,206
+gill,upregulated,GO:0032502,developmental process,5.51E-07,2.68E-03,1.27,11186,3285,748,280
+gill,upregulated,GO:0007155,cell adhesion,1.37E-06,4.99E-03,1.77,11186,600,748,71
+gill,upregulated,GO:0006928,movement of cell or subcellular component,1.47E-06,4.30E-03,1.58,11186,953,748,101
+gill,upregulated,GO:0050793,regulation of developmental process,1.69E-06,4.11E-03,1.38,11186,1894,748,175
+gill,upregulated,GO:0022610,biological adhesion,1.97E-06,4.11E-03,1.75,11186,606,748,71
+gill,upregulated,GO:2000026,regulation of multicellular organismal development,3.38E-06,6.16E-03,1.42,11186,1523,748,145
+gill,upregulated,GO:0048513,animal organ development,4.52E-06,7.34E-03,1.57,11186,904,748,95
+gill,upregulated,GO:0001525,angiogenesis,5.61E-06,8.20E-03,2.33,11186,205,748,32
+gill,upregulated,GO:0045765,regulation of angiogenesis,8.70E-06,1.16E-02,2.25,11186,219,748,33
+gill,upregulated,GO:0033262,regulation of nuclear cell cycle DNA replication,1.32E-05,1.60E-02,7.48,11186,14,748,7
+gill,upregulated,GO:0009887,animal organ morphogenesis,1.71E-05,1.93E-02,1.94,11186,340,748,44
+gill,upregulated,GO:0048646,anatomical structure formation involved in morphogenesis,1.91E-05,1.99E-02,1.73,11186,519,748,60
+gill,upregulated,GO:0048870,cell motility,2.16E-05,2.11E-02,1.64,11186,649,748,71
+gill,upregulated,GO:0040011,locomotion,2.35E-05,2.15E-02,1.6,11186,710,748,76
+gill,upregulated,GO:0016477,cell migration,3.08E-05,2.64E-02,1.65,11186,597,748,66
+gill,upregulated,GO:1901342,regulation of vasculature development,3.45E-05,2.80E-02,2.08,11186,244,748,34
+gill,upregulated,GO:0022603,regulation of anatomical structure morphogenesis,4.96E-05,3.81E-02,1.53,11186,823,748,84
+gill,upregulated,GO:0097485,neuron projection guidance,5.16E-05,3.77E-02,2.16,11186,208,748,30
+gill,upregulated,GO:0007411,axon guidance,5.16E-05,3.59E-02,2.16,11186,208,748,30
+gill,upregulated,GO:0042026,protein refolding,5.71E-05,3.79E-02,7.48,11186,12,748,6
+gill,upregulated,GO:0009888,tissue development,5.83E-05,3.70E-02,1.77,11186,413,748,49
+gill,upregulated,GO:0007423,sensory organ development,7.09E-05,4.31E-02,2.86,11186,89,748,17
+gill,upregulated,GO:0051239,regulation of multicellular organismal process,1.04E-04,6.07E-02,1.27,11186,2219,748,189
+gill,upregulated,GO:0006275,regulation of DNA replication,2.10E-04,1.18E-01,2.72,11186,88,748,16
+gill,upregulated,GO:0045740,positive regulation of DNA replication,2.28E-04,1.24E-01,4.08,11186,33,748,9
+gill,upregulated,GO:0007275,multicellular organism development,2.42E-04,1.26E-01,1.69,11186,426,748,48
+gill,upregulated,GO:0010571,positive regulation of nuclear cell cycle DNA replication,2.67E-04,1.34E-01,9.97,11186,6,748,4
+gill,upregulated,GO:0006189,'de novo' IMP biosynthetic process,2.67E-04,1.30E-01,9.97,11186,6,748,4
+gill,upregulated,GO:0043062,extracellular structure organization,2.78E-04,1.31E-01,1.88,11186,271,748,34
+gill,upregulated,GO:0044774,mitotic DNA integrity checkpoint,2.82E-04,1.29E-01,3.65,11186,41,748,10
+gill,upregulated,GO:0010604,positive regulation of macromolecule metabolic process,2.83E-04,1.25E-01,1.25,11186,2328,748,194
+gill,upregulated,GO:0040007,growth,2.90E-04,1.25E-01,1.91,11186,250,748,32
+gill,upregulated,GO:0044773,mitotic DNA damage checkpoint,2.93E-04,1.22E-01,3.96,11186,34,748,9
+gill,upregulated,GO:0060426,lung vasculature development,2.98E-04,1.21E-01,14.95,11186,3,748,3
+gill,upregulated,GO:0031570,DNA integrity checkpoint,3.61E-04,1.42E-01,2.95,11186,66,748,13
+gill,upregulated,GO:0030900,forebrain development,3.71E-04,1.43E-01,3.85,11186,35,748,9
+gill,upregulated,GO:0030198,extracellular matrix organization,3.81E-04,1.43E-01,1.91,11186,243,748,31
+gill,upregulated,GO:0001654,eye development,4.21E-04,1.54E-01,2.9,11186,67,748,13
+gill,upregulated,GO:0051093,negative regulation of developmental process,4.27E-04,1.52E-01,1.49,11186,702,748,70
+gill,upregulated,GO:0051960,regulation of nervous system development,4.31E-04,1.50E-01,1.48,11186,727,748,72
+gill,upregulated,GO:0045595,regulation of cell differentiation,4.50E-04,1.53E-01,1.33,11186,1345,748,120
+gill,upregulated,GO:0031099,regeneration,5.01E-04,1.66E-01,2.44,11186,104,748,17
+gill,upregulated,GO:0048518,positive regulation of biological process,5.79E-04,1.88E-01,1.15,11186,4124,748,318
+gill,upregulated,GO:0021861,forebrain radial glial cell differentiation,5.90E-04,1.87E-01,8.55,11186,7,748,4
+gill,upregulated,GO:0007346,regulation of mitotic cell cycle,6.04E-04,1.88E-01,1.59,11186,479,748,51
+gill,upregulated,GO:0042127,regulation of cell proliferation,6.08E-04,1.85E-01,1.37,11186,1080,748,99
+gill,upregulated,GO:0060429,epithelium development,6.60E-04,1.97E-01,2.32,11186,116,748,18
+gill,upregulated,GO:0090304,nucleic acid metabolic process,6.61E-04,1.93E-01,1.28,11186,1666,748,143
+gill,upregulated,GO:0007389,pattern specification process,6.66E-04,1.91E-01,1.85,11186,251,748,31
+gill,upregulated,GO:0006139,nucleobase-containing compound metabolic process,6.71E-04,1.88E-01,1.25,11186,2089,748,174
+gill,upregulated,GO:0034641,cellular nitrogen compound metabolic process,6.73E-04,1.86E-01,1.22,11186,2463,748,201
+gill,upregulated,GO:0030334,regulation of cell migration,7.16E-04,1.94E-01,1.51,11186,616,748,62
+gill,upregulated,GO:0051173,positive regulation of nitrogen compound metabolic process,7.53E-04,2.00E-01,1.23,11186,2232,748,184
+gill,upregulated,GO:0045665,negative regulation of neuron differentiation,7.69E-04,2.01E-01,2.02,11186,178,748,24
+gill,upregulated,GO:0031103,axon regeneration,8.11E-04,2.08E-01,4.98,11186,18,748,6
+gill,upregulated,GO:0001667,ameboidal-type cell migration,8.11E-04,2.04E-01,2.28,11186,118,748,18
+gill,upregulated,GO:0051961,negative regulation of nervous system development,8.14E-04,2.01E-01,1.85,11186,243,748,30
+gill,upregulated,GO:0048589,developmental growth,8.14E-04,1.98E-01,1.85,11186,243,748,30
+gill,upregulated,GO:0001764,neuron migration,8.23E-04,1.97E-01,2.42,11186,99,748,16
+gill,upregulated,GO:0050768,negative regulation of neurogenesis,8.59E-04,2.02E-01,1.89,11186,222,748,28
+gill,upregulated,GO:0035136,forelimb morphogenesis,9.64E-04,2.23E-01,4.19,11186,25,748,7
+gill,upregulated,GO:0048729,tissue morphogenesis,9.90E-04,2.26E-01,1.8,11186,257,748,31
+gill,downregulated,GO:0002376,immune system process,1.34E-57,1.96E-53,2.59,11186,1298,924,278
+gill,downregulated,GO:0006955,immune response,4.27E-46,3.12E-42,3.64,11186,475,924,143
+gill,downregulated,GO:0001775,cell activation,9.19E-42,4.47E-38,3,11186,678,924,168
+gill,downregulated,GO:0006952,defense response,7.52E-38,2.75E-34,3.08,11186,577,924,147
+gill,downregulated,GO:0045321,leukocyte activation,3.57E-37,1.04E-33,3.03,11186,591,924,148
+gill,downregulated,GO:0002682,regulation of immune system process,2.49E-36,6.07E-33,2.48,11186,961,924,197
+gill,downregulated,GO:0007165,signal transduction,2.20E-33,4.60E-30,1.69,11186,2812,924,392
+gill,downregulated,GO:0050776,regulation of immune response,9.85E-31,1.80E-27,2.78,11186,610,924,140
+gill,downregulated,GO:0002252,immune effector process,1.88E-27,3.05E-24,2.66,11186,609,924,134
+gill,downregulated,GO:0019221,cytokine-mediated signaling pathway,1.24E-26,1.82E-23,3.14,11186,389,924,101
+gill,downregulated,GO:0001817,regulation of cytokine production,1.35E-26,1.80E-23,3,11186,436,924,108
+gill,downregulated,GO:0007166,cell surface receptor signaling pathway,3.64E-26,4.44E-23,1.95,11186,1443,924,232
+gill,downregulated,GO:0002684,positive regulation of immune system process,1.93E-25,2.16E-22,2.57,11186,622,924,132
+gill,downregulated,GO:0048584,positive regulation of response to stimulus,8.38E-24,8.74E-21,1.86,11186,1526,924,235
+gill,downregulated,GO:0002366,leukocyte activation involved in immune response,2.48E-23,2.42E-20,2.91,11186,412,924,99
+gill,downregulated,GO:0002263,cell activation involved in immune response,4.45E-23,4.06E-20,2.89,11186,415,924,99
+gill,downregulated,GO:0050865,regulation of cell activation,1.25E-22,1.07E-19,3.03,11186,359,924,90
+gill,downregulated,GO:0046649,lymphocyte activation,6.50E-22,5.28E-19,3.63,11186,227,924,68
+gill,downregulated,GO:0048583,regulation of response to stimulus,8.40E-22,6.46E-19,1.54,11186,2841,924,361
+gill,downregulated,GO:0002694,regulation of leukocyte activation,1.53E-21,1.12E-18,3.07,11186,331,924,84
+gill,downregulated,GO:0002274,myeloid leukocyte activation,3.33E-21,2.32E-18,2.84,11186,396,924,93
+gill,downregulated,GO:0050778,positive regulation of immune response,4.49E-21,2.98E-18,2.72,11186,440,924,99
+gill,downregulated,GO:0006954,inflammatory response,2.58E-20,1.64E-17,3.42,11186,241,924,68
+gill,downregulated,GO:0002764,immune response-regulating signaling pathway,6.11E-20,3.72E-17,3.14,11186,289,924,75
+gill,downregulated,GO:0002250,adaptive immune response,1.12E-19,6.54E-17,4.66,11186,117,924,45
+gill,downregulated,GO:0002757,immune response-activating signal transduction,2.26E-19,1.27E-16,3.2,11186,269,924,71
+gill,downregulated,GO:0051249,regulation of lymphocyte activation,4.43E-19,2.40E-16,3.16,11186,272,924,71
+gill,downregulated,GO:0031347,regulation of defense response,6.59E-19,3.44E-16,2.49,11186,500,924,103
+gill,downregulated,GO:0043207,response to external biotic stimulus,7.56E-19,3.81E-16,2.58,11186,456,924,97
+gill,downregulated,GO:0045087,innate immune response,1.02E-18,4.95E-16,3.24,11186,250,924,67
+gill,downregulated,GO:1902533,positive regulation of intracellular signal transduction,1.91E-18,9.00E-16,2.17,11186,738,924,132
+gill,downregulated,GO:0009607,response to biotic stimulus,1.96E-18,8.95E-16,2.51,11186,477,924,99
+gill,downregulated,GO:0050863,regulation of T cell activation,9.22E-18,4.08E-15,3.5,11186,197,924,57
+gill,downregulated,GO:0002253,activation of immune response,2.21E-17,9.50E-15,2.88,11186,311,924,74
+gill,downregulated,GO:0035556,intracellular signal transduction,2.24E-17,9.36E-15,1.87,11186,1118,924,173
+gill,downregulated,GO:1903039,positive regulation of leukocyte cell-cell adhesion,2.38E-17,9.66E-15,4.06,11186,137,924,46
+gill,downregulated,GO:1902531,regulation of intracellular signal transduction,2.53E-17,9.98E-15,1.79,11186,1322,924,195
+gill,downregulated,GO:1903037,regulation of leukocyte cell-cell adhesion,2.65E-17,1.02E-14,3.52,11186,189,924,55
+gill,downregulated,GO:0007186,G protein-coupled receptor signaling pathway,3.42E-17,1.28E-14,2.4,11186,504,924,100
+gill,downregulated,GO:0050867,positive regulation of cell activation,1.34E-16,4.90E-14,3.28,11186,214,924,58
+gill,downregulated,GO:0032101,regulation of response to external stimulus,1.49E-16,5.30E-14,2.31,11186,546,924,104
+gill,downregulated,GO:0002521,leukocyte differentiation,4.41E-16,1.54E-13,3.37,11186,194,924,54
+gill,downregulated,GO:0043299,leukocyte degranulation,4.61E-16,1.57E-13,2.67,11186,349,924,77
+gill,downregulated,GO:0002275,myeloid cell activation involved in immune response,6.21E-16,2.06E-13,2.64,11186,358,924,78
+gill,downregulated,GO:0042110,T cell activation,9.35E-16,3.04E-13,3.94,11186,132,924,43
+gill,downregulated,GO:0050870,positive regulation of T cell activation,1.10E-15,3.51E-13,4,11186,127,924,42
+gill,downregulated,GO:0030098,lymphocyte differentiation,1.43E-15,4.44E-13,3.83,11186,139,924,44
+gill,downregulated,GO:0022409,positive regulation of cell-cell adhesion,1.77E-15,5.39E-13,3.51,11186,169,924,49
+gill,downregulated,GO:0022407,regulation of cell-cell adhesion,2.00E-15,5.96E-13,2.91,11186,266,924,64
+gill,downregulated,GO:0002696,positive regulation of leukocyte activation,2.15E-15,6.30E-13,3.22,11186,207,924,55
+gill,downregulated,GO:0036230,granulocyte activation,5.97E-15,1.71E-12,2.59,11186,350,924,75
+gill,downregulated,GO:0009605,response to external stimulus,6.55E-15,1.84E-12,1.9,11186,910,924,143
+gill,downregulated,GO:0030155,regulation of cell adhesion,9.88E-15,2.72E-12,2.31,11186,483,924,92
+gill,downregulated,GO:0042119,neutrophil activation,1.02E-14,2.75E-12,2.59,11186,346,924,74
+gill,downregulated,GO:0002768,immune response-regulating cell surface receptor signaling pathway,1.12E-14,2.98E-12,3.07,11186,221,924,56
+gill,downregulated,GO:0002429,immune response-activating cell surface receptor signaling pathway,1.25E-14,3.25E-12,3.18,11186,202,924,53
+gill,downregulated,GO:0051707,response to other organism,1.25E-14,3.20E-12,2.69,11186,311,924,69
+gill,downregulated,GO:0002283,neutrophil activation involved in immune response,1.26E-14,3.17E-12,2.6,11186,340,924,73
+gill,downregulated,GO:0001819,positive regulation of cytokine production,1.54E-14,3.82E-12,2.85,11186,263,924,62
+gill,downregulated,GO:0050900,leukocyte migration,2.14E-14,5.21E-12,3.31,11186,179,924,49
+gill,downregulated,GO:0051251,positive regulation of lymphocyte activation,2.14E-14,5.13E-12,3.31,11186,179,924,49
+gill,downregulated,GO:0043312,neutrophil degranulation,2.52E-14,5.94E-12,2.59,11186,337,924,72
+gill,downregulated,GO:0009966,regulation of signal transduction,3.53E-14,8.18E-12,1.51,11186,2169,924,270
+gill,downregulated,GO:1902105,regulation of leukocyte differentiation,4.01E-14,9.15E-12,3.22,11186,188,924,50
+gill,downregulated,GO:0045088,regulation of innate immune response,4.66E-14,1.05E-11,2.76,11186,276,924,63
+gill,downregulated,GO:0009617,response to bacterium,5.29E-14,1.17E-11,3.57,11186,146,924,43
+gill,downregulated,GO:0045619,regulation of lymphocyte differentiation,1.24E-13,2.71E-11,3.83,11186,120,924,38
+gill,downregulated,GO:0045785,positive regulation of cell adhesion,1.33E-13,2.86E-11,2.7,11186,282,924,63
+gill,downregulated,GO:0065007,biological regulation,2.44E-13,5.16E-11,1.16,11186,7459,924,713
+gill,downregulated,"erythroid-derived 2)-like 2, TFE3  -  transcription factor binding to ighm enhancer 3, CDH23  -  cadherin-related 23, TNFSF13B  -  tumor necrosis factor (ligand) superfamily, member 13b, GNA13  -  guanine nucleotide binding protein (g protein), alpha 13, CLIC1  -  chloride intracellular channel 1, RAP1B  -  rap1b, member of ras oncogene family, TFRC  -  transferrin receptor (p90, cd71), GNA14  -  guanine nucleotide binding protein (g protein), alpha 14, NFATC2  -  nuclear factor of activated t-cells, cytoplasmic, calcineurin-dependent 2, RAP2B  -  rap2b, member of ras oncogene family, TFPI  -  tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor), TRIM39  -  tripartite motif containing 39, CHST11  -  carbohydrate (chondroitin 4) sulfotransferase 11, CRTAM  -  cytotoxic and regulatory t cell molecule, NEUROG3  -  neurogenin 3, SCUBE1  -  signal peptide, cub domain, egf-like 1, MASP2  -  mannan-binding lectin serine peptidase 2, ARHGEF3  -  rho guanine nucleotide exchange factor (gef) 3, TP53INP1  -  tumor protein p53 inducible nuclear protein 1, VGLL4  -  vestigial like 4 (drosophila), IGFALS  -  insulin-like growth factor binding protein, acid labile subunit, RASGRF2  -  ras protein-specific guanine nucleotide-releasing factor 2, N4BP1  -  nedd4 binding protein 1, IGFBP5  -  insulin-like growth factor binding protein 5, HCAR2  -  hydroxycarboxylic acid receptor 2, ACAP2  -  arfgap with coiled-coil, ankyrin repeat and ph domains 2, HMHA1  -  histocompatibility (minor) ha-1, APBB1IP  -  amyloid beta (a4) precursor protein-binding, family b, member 1 interacting protein, IRX4  -  iroquois homeobox 4, PIK3R5  -  phosphoinositide-3-kinase, regulatory subunit 5, RHOF  -  ras homolog family member f (in filopodia), TBR1  -  t-box, brain, 1, LPIN2  -  lipin 2]",,,,,,,,
+gill,downregulated,GO:0050896,response to stimulus,3.76E-13,7.85E-11,1.36,11186,3314,924,372
+gill,downregulated,GO:0051239,regulation of multicellular organismal process,5.97E-13,1.23E-10,1.47,11186,2219,924,270
+gill,downregulated,GO:0030217,T cell differentiation,6.99E-13,1.42E-10,4.43,11186,82,924,30
+gill,downregulated,GO:0009967,positive regulation of signal transduction,7.81E-13,1.56E-10,1.72,11186,1142,924,162
+gill,downregulated,GO:0044093,positive regulation of molecular function,8.63E-13,1.70E-10,1.67,11186,1277,924,176
+gill,downregulated,GO:0050727,regulation of inflammatory response,9.84E-13,1.92E-10,2.75,11186,251,924,57
+gill,downregulated,GO:0050851,antigen receptor-mediated signaling pathway,1.21E-12,2.33E-10,3.46,11186,140,924,40
+gill,downregulated,GO:0051345,positive regulation of hydrolase activity,1.28E-12,2.42E-10,2.12,11186,531,924,93
+gill,downregulated,GO:0098542,defense response to other organism,1.46E-12,2.73E-10,3.08,11186,185,924,47
+gill,downregulated,GO:0080134,regulation of response to stress,1.72E-12,3.17E-10,1.73,11186,1077,924,154
+gill,downregulated,GO:0045055,regulated exocytosis,2.20E-12,4.02E-10,2.2,11186,462,924,84
+gill,downregulated,GO:0002683,negative regulation of immune system process,2.81E-12,5.07E-10,2.58,11186,286,924,61
+gill,downregulated,GO:0010647,positive regulation of cell communication,3.81E-12,6.80E-10,1.66,11186,1250,924,171
+gill,downregulated,GO:0010646,regulation of cell communication,3.94E-12,6.93E-10,1.42,11186,2456,924,289
+gill,downregulated,GO:0006887,exocytosis,4.65E-12,8.09E-10,2.09,11186,526,924,91
+gill,downregulated,GO:0023051,regulation of signaling,5.76E-12,9.90E-10,1.42,11186,2485,924,291
+gill,downregulated,GO:0023056,positive regulation of signaling,5.77E-12,9.80E-10,1.65,11186,1256,924,171
+gill,downregulated,GO:0001818,negative regulation of cytokine production,6.58E-12,1.10E-09,3.14,11186,166,924,43
+gill,downregulated,GO:0043085,positive regulation of catalytic activity,7.11E-12,1.18E-09,1.73,11186,1030,924,147
+gill,downregulated,GO:0050789,regulation of biological process,8.24E-12,1.35E-09,1.16,11186,7030,924,674
+gill,downregulated,GO:0050794,regulation of cellular process,9.11E-12,1.48E-09,1.17,11186,6607,924,641
+gill,downregulated,GO:0030595,leukocyte chemotaxis,1.42E-11,2.29E-09,4.24,11186,80,924,28
+gill,downregulated,GO:0045580,regulation of T cell differentiation,1.75E-11,2.78E-09,3.87,11186,97,924,31
+gill,downregulated,GO:0060326,cell chemotaxis,2.76E-11,4.34E-09,3.55,11186,116,924,34
+gill,downregulated,GO:0060333,interferon-gamma-mediated signaling pathway,3.21E-11,4.99E-09,6.23,11186,35,924,18
+gill,downregulated,GO:0051704,multi-organism process,3.91E-11,6.01E-09,1.72,11186,987,924,140
+gill,downregulated,GO:0002697,regulation of immune effector process,4.50E-11,6.85E-09,2.62,11186,245,924,53
+gill,downregulated,GO:0010941,regulation of cell death,4.55E-11,6.85E-09,1.65,11186,1151,924,157
+gill,downregulated,GO:0031349,positive regulation of defense response,6.71E-11,1.00E-08,2.49,11186,277,924,57
+gill,downregulated,GO:0043067,regulation of programmed cell death,7.86E-11,1.16E-08,1.67,11186,1063,924,147
+gill,downregulated,GO:0042113,B cell activation,9.33E-11,1.36E-08,3.74,11186,97,924,30
+gill,downregulated,GO:0042981,regulation of apoptotic process,9.75E-11,1.41E-08,1.68,11186,1047,924,145
+gill,downregulated,GO:0042742,defense response to bacterium,1.02E-10,1.46E-08,3.94,11186,86,924,28
+gill,downregulated,GO:0010942,positive regulation of cell death,1.32E-10,1.88E-08,2.03,11186,507,924,85
+gill,downregulated,GO:0043065,positive regulation of apoptotic process,1.33E-10,1.87E-08,2.08,11186,465,924,80
+gill,downregulated,GO:0048518,positive regulation of biological process,1.35E-10,1.88E-08,1.27,11186,4124,924,431
+gill,downregulated,GO:0050853,B cell receptor signaling pathway,1.65E-10,2.28E-08,6.98,11186,26,924,15
+gill,downregulated,GO:0002819,regulation of adaptive immune response,1.70E-10,2.32E-08,3.57,11186,105,924,31
+gill,downregulated,GO:0043068,positive regulation of programmed cell death,2.27E-10,3.07E-08,2.06,11186,470,924,80
+gill,downregulated,GO:0006935,chemotaxis,2.47E-10,3.32E-08,2.75,11186,198,924,45
+gill,downregulated,GO:0032940,secretion by cell,2.60E-10,3.46E-08,1.86,11186,671,924,103
+gill,downregulated,GO:0002703,regulation of leukocyte mediated immunity,2.61E-10,3.43E-08,3.29,11186,125,924,34
+gill,downregulated,GO:0042330,taxis,2.95E-10,3.85E-08,2.74,11186,199,924,45
+gill,downregulated,GO:0032103,positive regulation of response to external stimulus,3.53E-10,4.56E-08,2.76,11186,193,924,44
+gill,downregulated,GO:0007204,positive regulation of cytosolic calcium ion concentration,4.21E-10,5.39E-08,2.78,11186,187,924,43
+gill,downregulated,GO:0016477,cell migration,4.35E-10,5.53E-08,1.91,11186,597,924,94
+gill,downregulated,GO:0006874,cellular calcium ion homeostasis,4.75E-10,5.98E-08,2.4,11186,283,924,56
+gill,downregulated,GO:0055074,calcium ion homeostasis,4.97E-10,6.20E-08,2.37,11186,291,924,57
+gill,downregulated,GO:0070098,chemokine-mediated signaling pathway,5.39E-10,6.67E-08,5.45,11186,40,924,18
+gill,downregulated,GO:0051240,positive regulation of multicellular organismal process,6.05E-10,7.43E-08,1.59,11186,1220,924,160
+gill,downregulated,GO:0043122,regulation of I-kappaB kinase/NF-kappaB signaling,7.09E-10,8.63E-08,2.82,11186,176,924,41
+gill,downregulated,GO:0051241,negative regulation of multicellular organismal process,1.13E-09,1.37E-07,1.72,11186,845,924,120
+gill,downregulated,GO:0032675,regulation of interleukin-6 production,1.23E-09,1.47E-07,3.79,11186,83,924,26
+gill,downregulated,GO:0031294,lymphocyte costimulation,1.26E-09,1.50E-07,5.87,11186,33,924,16
+gill,downregulated,GO:0031295,T cell costimulation,1.26E-09,1.48E-07,5.87,11186,33,924,16
+gill,downregulated,GO:0040011,locomotion,1.49E-09,1.74E-07,1.79,11186,710,924,105
+gill,downregulated,GO:0030168,platelet activation,1.49E-09,1.73E-07,3.88,11186,78,924,25
+gill,downregulated,GO:0002285,lymphocyte activation involved in immune response,1.64E-09,1.88E-07,4.3,11186,62,924,22
+gill,downregulated,GO:0046634,regulation of alpha-beta T cell activation,1.64E-09,1.87E-07,4.3,11186,62,924,22
+gill,downregulated,GO:0048870,cell motility,1.82E-09,2.06E-07,1.83,11186,649,924,98
+gill,downregulated,GO:0072507,divalent inorganic cation homeostasis,1.91E-09,2.14E-07,2.27,11186,309,924,58
+gill,downregulated,GO:0046903,secretion,1.97E-09,2.20E-07,1.76,11186,741,924,108
+gill,downregulated,GO:0072503,cellular divalent inorganic cation homeostasis,2.09E-09,2.31E-07,2.31,11186,294,924,56
+gill,downregulated,GO:0065009,regulation of molecular function,2.41E-09,2.65E-07,1.41,11186,2056,924,239
+gill,downregulated,GO:1903706,regulation of hemopoiesis,2.47E-09,2.70E-07,2.2,11186,335,924,61
+gill,downregulated,GO:0098771,inorganic ion homeostasis,2.64E-09,2.86E-07,2,11186,460,924,76
+gill,downregulated,GO:1902107,positive regulation of leukocyte differentiation,2.89E-09,3.10E-07,3.38,11186,104,924,29
+gill,downregulated,GO:0097529,myeloid leukocyte migration,3.27E-09,3.48E-07,4.16,11186,64,924,22
+gill,downregulated,GO:0055080,cation homeostasis,3.40E-09,3.60E-07,2,11186,454,924,75
+gill,downregulated,GO:0001932,regulation of protein phosphorylation,4.45E-09,4.68E-07,1.63,11186,998,924,134
+gill,downregulated,GO:0051480,regulation of cytosolic calcium ion concentration,5.50E-09,5.74E-07,2.51,11186,217,924,45
+gill,downregulated,GO:0030003,cellular cation homeostasis,6.15E-09,6.37E-07,2.04,11186,409,924,69
+gill,downregulated,GO:0050864,regulation of B cell activation,6.33E-09,6.51E-07,3.65,11186,83,924,25
+gill,downregulated,GO:0006873,cellular ion homeostasis,6.52E-09,6.66E-07,2.03,11186,418,924,70
+gill,downregulated,GO:0002237,response to molecule of bacterial origin,8.18E-09,8.30E-07,2.65,11186,183,924,40
+gill,downregulated,GO:0042592,homeostatic process,8.34E-09,8.40E-07,1.6,11186,1037,924,137
+gill,downregulated,GO:0002706,regulation of lymphocyte mediated immunity,8.41E-09,8.42E-07,3.5,11186,90,924,26
+gill,downregulated,GO:0042035,regulation of cytokine biosynthetic process,8.67E-09,8.62E-07,3.98,11186,67,924,22
+gill,downregulated,GO:0043123,positive regulation of I-kappaB kinase/NF-kappaB signaling,9.19E-09,9.07E-07,2.96,11186,135,924,33
+gill,downregulated,GO:0043408,regulation of MAPK cascade,1.02E-08,9.97E-07,1.91,11186,500,924,79
+gill,downregulated,GO:0048522,positive regulation of cellular process,1.66E-08,1.62E-06,1.25,11186,3723,924,385
+gill,downregulated,GO:0050777,negative regulation of immune response,1.79E-08,1.73E-06,3.38,11186,93,924,26
+gill,downregulated,GO:0006915,apoptotic process,1.92E-08,1.84E-06,1.92,11186,472,924,75
+gill,downregulated,GO:0051056,regulation of small GTPase mediated signal transduction,1.96E-08,1.87E-06,2.36,11186,241,924,47
+gill,downregulated,GO:0050790,regulation of catalytic activity,2.03E-08,1.92E-06,1.44,11186,1618,924,193
+gill,downregulated,GO:0045621,positive regulation of lymphocyte differentiation,2.16E-08,2.03E-06,3.8,11186,70,924,22
+gill,downregulated,GO:0045582,positive regulation of T cell differentiation,2.23E-08,2.09E-06,4.1,11186,59,924,20
+gill,downregulated,GO:0050852,T cell receptor signaling pathway,2.50E-08,2.32E-06,3.03,11186,120,924,30
+gill,downregulated,GO:0007249,I-kappaB kinase/NF-kappaB signaling,2.71E-08,2.51E-06,4.68,11186,44,924,17
+gill,downregulated,GO:0046632,alpha-beta T cell differentiation,2.89E-08,2.65E-06,6.05,11186,26,924,13
+gill,downregulated,GO:0002822,regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,2.90E-08,2.65E-06,3.31,11186,95,924,26
+gill,downregulated,GO:0048878,chemical homeostasis,3.44E-08,3.12E-06,1.7,11186,733,924,103
+gill,downregulated,GO:0002685,regulation of leukocyte migration,3.46E-08,3.12E-06,3.05,11186,115,924,29
+gill,downregulated,GO:0012501,programmed cell death,3.87E-08,3.47E-06,1.85,11186,524,924,80
+gill,downregulated,GO:0055065,metal ion homeostasis,3.96E-08,3.53E-06,1.99,11186,402,924,66
+gill,downregulated,GO:0002705,positive regulation of leukocyte mediated immunity,3.98E-08,3.53E-06,3.46,11186,84,924,24
+gill,downregulated,GO:0071621,granulocyte chemotaxis,4.03E-08,3.54E-06,4.57,11186,45,924,17
+gill,downregulated,GO:0046631,alpha-beta T cell activation,4.36E-08,3.82E-06,5.47,11186,31,924,14
+gill,downregulated,GO:0042325,regulation of phosphorylation,4.39E-08,3.82E-06,1.54,11186,1134,924,144
+gill,downregulated,GO:0008219,cell death,5.02E-08,4.34E-06,1.81,11186,554,924,83
+gill,downregulated,GO:0050729,positive regulation of inflammatory response,5.12E-08,4.40E-06,3.42,11186,85,924,24
+gill,downregulated,GO:0065008,regulation of biological quality,5.36E-08,4.58E-06,1.31,11186,2639,924,286
+gill,downregulated,GO:0040012,regulation of locomotion,5.44E-08,4.62E-06,1.71,11186,702,924,99
+gill,downregulated,GO:0050728,negative regulation of inflammatory response,5.82E-08,4.91E-06,3.21,11186,98,924,26
+gill,downregulated,GO:0030593,neutrophil chemotaxis,5.91E-08,4.96E-06,4.72,11186,41,924,16
+gill,downregulated,GO:0035588,G protein-coupled purinergic receptor signaling pathway,7.13E-08,5.95E-06,7.57,11186,16,924,10
+gill,downregulated,GO:0097530,granulocyte migration,7.80E-08,6.48E-06,4.19,11186,52,924,18
+gill,downregulated,GO:0031348,negative regulation of defense response,8.50E-08,7.02E-06,2.77,11186,140,924,32
+gill,downregulated,GO:0006875,cellular metal ion homeostasis,9.71E-08,7.97E-06,2.02,11186,360,924,60
+gill,downregulated,GO:0018212,peptidyl-tyrosine modification,1.01E-07,8.24E-06,3.05,11186,107,924,27
+gill,downregulated,GO:0050707,regulation of cytokine secretion,1.09E-07,8.86E-06,2.97,11186,114,924,28
+gill,downregulated,GO:0019220,regulation of phosphate metabolic process,1.17E-07,9.46E-06,1.48,11186,1273,924,156
+gill,downregulated,GO:0051174,regulation of phosphorus metabolic process,1.23E-07,9.90E-06,1.48,11186,1274,924,156
+gill,downregulated,GO:0043410,positive regulation of MAPK cascade,1.45E-07,1.16E-05,2,11186,364,924,60
+gill,downregulated,GO:0032653,regulation of interleukin-10 production,1.49E-07,1.18E-05,5.43,11186,29,924,13
+gill,downregulated,GO:0043547,positive regulation of GTPase activity,1.67E-07,1.32E-05,2.15,11186,282,924,50
+gill,downregulated,GO:0050670,regulation of lymphocyte proliferation,1.68E-07,1.32E-05,2.85,11186,123,924,29
+gill,downregulated,GO:0010033,response to organic substance,1.75E-07,1.37E-05,1.43,11186,1497,924,177
+gill,downregulated,GO:0010562,positive regulation of phosphorus metabolic process,1.77E-07,1.38E-05,1.64,11186,776,924,105
+gill,downregulated,GO:0045937,positive regulation of phosphate metabolic process,1.77E-07,1.37E-05,1.64,11186,776,924,105
+gill,downregulated,GO:0050801,ion homeostasis,1.86E-07,1.43E-05,1.81,11186,516,924,77
+gill,downregulated,GO:0071310,cellular response to organic substance,1.87E-07,1.43E-05,1.55,11186,981,924,126
+gill,downregulated,GO:0031341,regulation of cell killing,1.88E-07,1.43E-05,4.4,11186,44,924,16
+gill,downregulated,GO:0051924,regulation of calcium ion transport,1.89E-07,1.43E-05,2.59,11186,159,924,34
+gill,downregulated,GO:0072676,lymphocyte migration,1.93E-07,1.45E-05,4.66,11186,39,924,15
+gill,downregulated,GO:0032944,regulation of mononuclear cell proliferation,2.03E-07,1.52E-05,2.83,11186,124,924,29
+gill,downregulated,GO:0002699,positive regulation of immune effector process,2.45E-07,1.83E-05,2.75,11186,132,924,30
+gill,downregulated,GO:0051247,positive regulation of protein metabolic process,2.56E-07,1.90E-05,1.48,11186,1207,924,148
+gill,downregulated,GO:0018108,peptidyl-tyrosine phosphorylation,2.60E-07,1.92E-05,3,11186,105,924,26
+gill,downregulated,GO:0002709,regulation of T cell mediated immunity,2.70E-07,1.98E-05,4.3,11186,45,924,16
+gill,downregulated,GO:0001910,regulation of leukocyte mediated cytotoxicity,2.79E-07,2.04E-05,4.84,11186,35,924,14
+gill,downregulated,GO:0070663,regulation of leukocyte proliferation,2.92E-07,2.13E-05,2.73,11186,133,924,30
+gill,downregulated,GO:0038083,peptidyl-tyrosine autophosphorylation,3.06E-07,2.21E-05,5.59,11186,26,924,12
+gill,downregulated,GO:0072678,T cell migration,3.34E-07,2.40E-05,6.73,11186,18,924,10
+gill,downregulated,GO:0048869,cellular developmental process,3.72E-07,2.67E-05,1.37,11186,1830,924,207
+gill,downregulated,GO:1990266,neutrophil migration,3.83E-07,2.73E-05,4.21,11186,46,924,16
+gill,downregulated,GO:0031343,positive regulation of cell killing,3.87E-07,2.75E-05,5.08,11186,31,924,13
+gill,downregulated,GO:0051092,positive regulation of NF-kappaB transcription factor activity,3.88E-07,2.74E-05,2.94,11186,107,924,26
+gill,downregulated,GO:0032879,regulation of localization,3.96E-07,2.78E-05,1.35,11186,1960,924,219
+gill,downregulated,GO:0042108,positive regulation of cytokine biosynthetic process,4.16E-07,2.91E-05,4.43,11186,41,924,15
+gill,downregulated,GO:0055082,cellular chemical homeostasis,4.93E-07,3.43E-05,1.8,11186,483,924,72
+gill,downregulated,GO:0051057,positive regulation of small GTPase mediated signal transduction,5.11E-07,3.54E-05,3.76,11186,58,924,18
+gill,downregulated,GO:0061900,glial cell activation,6.16E-07,4.25E-05,5.79,11186,23,924,11
+gill,downregulated,GO:0001934,positive regulation of protein phosphorylation,6.30E-07,4.32E-05,1.65,11186,681,924,93
+gill,downregulated,GO:0035587,purinergic receptor signaling pathway,6.53E-07,4.46E-05,6.37,11186,19,924,10
+gill,downregulated,GO:0071260,cellular response to mechanical stimulus,6.79E-07,4.61E-05,3.69,11186,59,924,18
+gill,downregulated,GO:0071219,cellular response to molecule of bacterial origin,6.96E-07,4.71E-05,3.09,11186,90,924,23
+gill,downregulated,GO:0070372,regulation of ERK1 and ERK2 cascade,7.23E-07,4.87E-05,2.38,11186,183,924,36
+gill,downregulated,GO:0035589,G protein-coupled purinergic nucleotide receptor signaling pathway,7.71E-07,5.17E-05,8.07,11186,12,924,8
+gill,downregulated,GO:0031399,regulation of protein modification process,8.50E-07,5.67E-05,1.44,11186,1303,924,155
+gill,downregulated,GO:0051336,regulation of hydrolase activity,8.67E-07,5.76E-05,1.56,11186,860,924,111
+gill,downregulated,GO:0002708,positive regulation of lymphocyte mediated immunity,9.07E-07,5.99E-05,3.49,11186,66,924,19
+gill,downregulated,GO:0042127,regulation of cell proliferation,9.14E-07,6.01E-05,1.49,11186,1080,924,133
+gill,downregulated,GO:0032655,regulation of interleukin-12 production,9.21E-07,6.03E-05,4.77,11186,33,924,13
+gill,downregulated,GO:2001056,positive regulation of cysteine-type endopeptidase activity,9.76E-07,6.36E-05,2.88,11186,105,924,25
+gill,downregulated,GO:0043280,positive regulation of cysteine-type endopeptidase activity involved in apoptotic process,1.06E-06,6.87E-05,3.03,11186,92,924,23
+gill,downregulated,GO:0050920,regulation of chemotaxis,1.10E-06,7.12E-05,2.58,11186,141,924,30
+gill,downregulated,GO:0048585,negative regulation of response to stimulus,1.12E-06,7.19E-05,1.46,11186,1206,924,145
+gill,downregulated,GO:0002269,leukocyte activation involved in inflammatory response,1.16E-06,7.42E-05,6.81,11186,16,924,9
+gill,downregulated,GO:0001774,microglial cell activation,1.16E-06,7.39E-05,6.81,11186,16,924,9
+gill,downregulated,GO:0009595,detection of biotic stimulus,1.16E-06,7.36E-05,6.81,11186,16,924,9
+gill,downregulated,GO:1903555,regulation of tumor necrosis factor superfamily cytokine production,1.19E-06,7.52E-05,3.1,11186,86,924,22
+gill,downregulated,GO:0030334,regulation of cell migration,1.29E-06,8.11E-05,1.67,11186,616,924,85
+gill,downregulated,GO:0002221,pattern recognition receptor signaling pathway,1.31E-06,8.24E-05,3.18,11186,80,924,21
+gill,downregulated,GO:1903708,positive regulation of hemopoiesis,1.35E-06,8.42E-05,2.6,11186,135,924,29
+gill,downregulated,GO:0042327,positive regulation of phosphorylation,1.42E-06,8.83E-05,1.6,11186,732,924,97
+gill,downregulated,GO:1903530,regulation of secretion by cell,1.43E-06,8.86E-05,1.74,11186,515,924,74
+gill,downregulated,GO:0045089,positive regulation of innate immune response,1.48E-06,9.11E-05,2.26,11186,204,924,38
+gill,downregulated,GO:0006950,response to stress,1.52E-06,9.32E-05,1.33,11186,2027,924,222
+gill,downregulated,GO:0051046,regulation of secretion,1.57E-06,9.60E-05,1.71,11186,544,924,77
+gill,downregulated,GO:0048872,homeostasis of number of cells,1.64E-06,9.97E-05,3.14,11186,81,924,21
+gill,downregulated,GO:0046637,regulation of alpha-beta T cell differentiation,1.65E-06,1.00E-04,4.04,11186,45,924,15
+gill,downregulated,GO:0006968,cellular defense response,1.74E-06,1.05E-04,5.33,11186,25,924,11
+gill,downregulated,GO:0032715,negative regulation of interleukin-6 production,1.74E-06,1.05E-04,5.33,11186,25,924,11
+gill,downregulated,GO:0035025,positive regulation of Rho protein signal transduction,1.74E-06,1.04E-04,5.33,11186,25,924,11
+gill,downregulated,GO:0010952,positive regulation of peptidase activity,1.85E-06,1.10E-04,2.56,11186,137,924,29
+gill,downregulated,GO:0030888,regulation of B cell proliferation,1.88E-06,1.12E-04,4.24,11186,40,924,14
+gill,downregulated,GO:0042116,macrophage activation,2.01E-06,1.19E-04,4.84,11186,30,924,12
+gill,downregulated,GO:0045577,regulation of B cell differentiation,2.14E-06,1.26E-04,5.76,11186,21,924,10
+gill,downregulated,GO:0048519,negative regulation of biological process,2.26E-06,1.33E-04,1.21,11186,3610,924,362
+gill,downregulated,GO:0045058,T cell selection,2.28E-06,1.33E-04,6.41,11186,17,924,9
+gill,downregulated,GO:0071216,cellular response to biotic stimulus,2.44E-06,1.42E-04,2.75,11186,110,924,25
+gill,downregulated,GO:0046579,positive regulation of Ras protein signal transduction,2.49E-06,1.44E-04,3.72,11186,52,924,16
+gill,downregulated,GO:0002791,regulation of peptide secretion,2.49E-06,1.44E-04,1.94,11186,325,924,52
+gill,downregulated,GO:2000145,regulation of cell motility,2.57E-06,1.48E-04,1.63,11186,655,924,88
+gill,downregulated,GO:0001912,positive regulation of leukocyte mediated cytotoxicity,2.79E-06,1.60E-04,5.12,11186,26,924,11
+gill,downregulated,GO:0050708,regulation of protein secretion,2.79E-06,1.59E-04,1.96,11186,309,924,50
+gill,downregulated,GO:0051282,regulation of sequestering of calcium ion,2.80E-06,1.59E-04,3.14,11186,77,924,20
+gill,downregulated,GO:0050793,regulation of developmental process,3.05E-06,1.73E-04,1.33,11186,1894,924,208
+gill,downregulated,GO:0030154,cell differentiation,3.05E-06,1.72E-04,1.43,11186,1248,924,147
+gill,downregulated,GO:0019932,second-messenger-mediated signaling,3.07E-06,1.72E-04,2.19,11186,210,924,38
+gill,downregulated,GO:0032680,regulation of tumor necrosis factor production,3.09E-06,1.73E-04,3.03,11186,84,924,21
+gill,downregulated,GO:1901700,response to oxygen-containing compound,3.14E-06,1.75E-04,1.5,11186,963,924,119
+gill,downregulated,GO:0032496,response to lipopolysaccharide,3.24E-06,1.80E-04,2.34,11186,171,924,33
+gill,downregulated,GO:0034341,response to interferon-gamma,3.25E-06,1.80E-04,3.35,11186,65,924,18
+gill,downregulated,GO:0070661,leukocyte proliferation,3.30E-06,1.82E-04,3.65,11186,53,924,16
+gill,downregulated,GO:0046635,positive regulation of alpha-beta T cell activation,3.67E-06,2.01E-04,4.04,11186,42,924,14
+gill,downregulated,GO:0002758,innate immune response-activating signal transduction,3.68E-06,2.01E-04,2.44,11186,149,924,30
+gill,downregulated,GO:0042221,response to chemical,3.85E-06,2.10E-04,1.33,11186,1857,924,204
+gill,downregulated,GO:0050854,regulation of antigen receptor-mediated signaling pathway,4.19E-06,2.27E-04,4.25,11186,37,924,13
+gill,downregulated,GO:0002312,B cell activation involved in immune response,4.48E-06,2.43E-04,4.54,11186,32,924,12
+gill,downregulated,GO:0007187,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",4.58E-06,2.47E-04,2.46,11186,143,924,29
+gill,downregulated,GO:0051246,regulation of protein metabolic process,4.59E-06,2.46E-04,1.31,11186,1981,924,215
+gill,downregulated,GO:0002821,positive regulation of adaptive immune response,4.78E-06,2.56E-04,3.15,11186,73,924,19
+gill,downregulated,GO:0002695,negative regulation of leukocyte activation,4.93E-06,2.63E-04,2.72,11186,107,924,24
+gill,downregulated,GO:0010950,positive regulation of endopeptidase activity,5.49E-06,2.92E-04,2.58,11186,122,924,26
+gill,downregulated,GO:0051270,regulation of cellular component movement,5.82E-06,3.08E-04,1.58,11186,707,924,92
+gill,downregulated,GO:0001959,regulation of cytokine-mediated signaling pathway,5.91E-06,3.11E-04,2.76,11186,101,924,23
+gill,downregulated,GO:0010959,regulation of metal ion transport,6.08E-06,3.19E-04,2.04,11186,249,924,42
+gill,downregulated,GO:0071345,cellular response to cytokine stimulus,6.26E-06,3.28E-04,1.92,11186,309,924,49
+gill,downregulated,GO:0001562,response to protozoan,6.30E-06,3.29E-04,7.7,11186,11,924,7
+gill,downregulated,GO:0042832,defense response to protozoan,6.30E-06,3.27E-04,7.7,11186,11,924,7
+gill,downregulated,GO:0045824,negative regulation of innate immune response,6.52E-06,3.38E-04,4.4,11186,33,924,12
+gill,downregulated,GO:0002824,positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,6.55E-06,3.38E-04,3.2,11186,68,924,18
+gill,downregulated,GO:0031325,positive regulation of cellular metabolic process,6.61E-06,3.40E-04,1.28,11186,2343,924,247
+gill,downregulated,GO:0002218,activation of innate immune response,6.71E-06,3.44E-04,2.33,11186,161,924,31
+gill,downregulated,GO:0060759,regulation of response to cytokine stimulus,6.93E-06,3.54E-04,2.67,11186,109,924,24
+gill,downregulated,GO:0032649,regulation of interferon-gamma production,7.30E-06,3.72E-04,3.46,11186,56,924,16
+gill,downregulated,GO:0050866,negative regulation of cell activation,7.51E-06,3.81E-04,2.54,11186,124,924,26
+gill,downregulated,GO:0002315,marginal zone B cell differentiation,7.57E-06,3.83E-04,9.08,11186,8,924,6
+gill,downregulated,GO:2000116,regulation of cysteine-type endopeptidase activity,7.66E-06,3.86E-04,2.32,11186,162,924,31
+gill,downregulated,GO:0050857,positive regulation of antigen receptor-mediated signaling pathway,8.00E-06,4.02E-04,6.46,11186,15,924,8
+gill,downregulated,GO:0035590,purinergic nucleotide receptor signaling pathway,8.00E-06,4.00E-04,6.46,11186,15,924,8
+gill,downregulated,GO:2000514,"regulation of CD4-positive, alpha-beta T cell activation",8.17E-06,4.07E-04,4.04,11186,39,924,13
+gill,downregulated,GO:0001776,leukocyte homeostasis,8.17E-06,4.06E-04,4.04,11186,39,924,13
+gill,downregulated,GO:0032270,positive regulation of cellular protein metabolic process,8.89E-06,4.40E-04,1.43,11186,1127,924,133
+gill,downregulated,GO:0008360,regulation of cell shape,9.24E-06,4.56E-04,2.56,11186,118,924,25
+gill,downregulated,GO:0071346,cellular response to interferon-gamma,9.38E-06,4.62E-04,3.4,11186,57,924,16
+gill,downregulated,GO:0071222,cellular response to lipopolysaccharide,9.65E-06,4.73E-04,2.92,11186,83,924,20
+gill,downregulated,GO:0034097,response to cytokine,9.70E-06,4.74E-04,1.79,11186,385,924,57
+gill,downregulated,GO:0002286,T cell activation involved in immune response,9.92E-06,4.83E-04,4.59,11186,29,924,11
+gill,downregulated,GO:1901222,regulation of NIK/NF-kappaB signaling,1.02E-05,4.94E-04,3.11,11186,70,924,18
+gill,downregulated,GO:0048523,negative regulation of cellular process,1.12E-05,5.40E-04,1.21,11186,3251,924,326
+gill,downregulated,GO:0043087,regulation of GTPase activity,1.12E-05,5.41E-04,1.84,11186,342,924,52
+gill,downregulated,GO:1902532,negative regulation of intracellular signal transduction,1.13E-05,5.43E-04,1.77,11186,396,924,58
+gill,downregulated,GO:0019725,cellular homeostasis,1.13E-05,5.42E-04,1.61,11186,602,924,80
+gill,downregulated,GO:0032733,positive regulation of interleukin-10 production,1.25E-05,5.99E-04,5.45,11186,20,924,9
+gill,downregulated,GO:0050830,defense response to Gram-positive bacterium,1.31E-05,6.25E-04,4.15,11186,35,924,12
+gill,downregulated,GO:0016192,vesicle-mediated transport,1.35E-05,6.41E-04,1.4,11186,1209,924,140
+gill,downregulated,GO:0002313,mature B cell differentiation involved in immune response,1.40E-05,6.64E-04,7.06,11186,12,924,7
+gill,downregulated,GO:0045076,regulation of interleukin-2 biosynthetic process,1.40E-05,6.62E-04,7.06,11186,12,924,7
+gill,downregulated,GO:0043900,regulation of multi-organism process,1.43E-05,6.70E-04,1.99,11186,249,924,41
+gill,downregulated,GO:0042129,regulation of T cell proliferation,1.43E-05,6.71E-04,2.76,11186,92,924,21
+gill,downregulated,GO:0030335,positive regulation of cell migration,1.45E-05,6.75E-04,1.79,11186,372,924,55
+gill,downregulated,GO:0030041,actin filament polymerization,1.46E-05,6.79E-04,4.84,11186,25,924,10
+gill,downregulated,GO:0048247,lymphocyte chemotaxis,1.46E-05,6.76E-04,4.84,11186,25,924,10
+gill,downregulated,GO:0002335,mature B cell differentiation,1.48E-05,6.86E-04,6.05,11186,16,924,8
+gill,downregulated,GO:0046651,lymphocyte proliferation,1.60E-05,7.39E-04,3.61,11186,47,924,14
+gill,downregulated,GO:0070665,positive regulation of leukocyte proliferation,1.65E-05,7.58E-04,2.91,11186,79,924,19
+gill,downregulated,GO:0070887,cellular response to chemical stimulus,1.67E-05,7.66E-04,1.4,11186,1214,924,140
+gill,downregulated,GO:1903169,regulation of calcium ion transmembrane transport,1.68E-05,7.68E-04,2.66,11186,100,924,22
+gill,downregulated,GO:0050921,positive regulation of chemotaxis,1.70E-05,7.74E-04,2.82,11186,86,924,20
+gill,downregulated,GO:0043281,regulation of cysteine-type endopeptidase activity involved in apoptotic process,1.75E-05,7.95E-04,2.34,11186,145,924,28
+gill,downregulated,GO:0032663,regulation of interleukin-2 production,1.82E-05,8.24E-04,4.04,11186,36,924,12
+gill,downregulated,GO:0002687,positive regulation of leukocyte migration,1.90E-05,8.58E-04,2.99,11186,73,924,18
+gill,downregulated,GO:0009612,response to mechanical stimulus,1.92E-05,8.65E-04,2.37,11186,138,924,27
+gill,downregulated,GO:0031401,positive regulation of protein modification process,2.04E-05,9.15E-04,1.48,11186,849,924,104
+gill,downregulated,GO:0002260,lymphocyte homeostasis,2.08E-05,9.30E-04,4.3,11186,31,924,11
+gill,downregulated,GO:0032943,mononuclear cell proliferation,2.09E-05,9.32E-04,3.53,11186,48,924,14
+gill,downregulated,GO:0050862,positive regulation of T cell receptor signaling pathway,2.11E-05,9.38E-04,8.07,11186,9,924,6
+gill,downregulated,GO:0002688,regulation of leukocyte chemotaxis,2.16E-05,9.56E-04,3.07,11186,67,924,17
+gill,downregulated,GO:0051482,positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway,2.20E-05,9.69E-04,4.66,11186,26,924,10
+gill,downregulated,GO:0006928,movement of cell or subcellular component,2.32E-05,1.02E-03,1.45,11186,953,924,114
+gill,downregulated,GO:0002793,positive regulation of peptide secretion,2.35E-05,1.03E-03,2.16,11186,179,924,32
+gill,downregulated,GO:0006959,humoral immune response,2.44E-05,1.07E-03,2.75,11186,88,924,20
+gill,downregulated,GO:0050871,positive regulation of B cell activation,2.60E-05,1.13E-03,3.3,11186,55,924,15
+gill,downregulated,GO:0050829,defense response to Gram-negative bacterium,2.60E-05,1.13E-03,5.7,11186,17,924,8
+gill,downregulated,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,2.77E-05,1.20E-03,2.37,11186,133,924,26
+gill,downregulated,GO:0032102,negative regulation of response to external stimulus,2.84E-05,1.23E-03,1.98,11186,239,924,39
+gill,downregulated,GO:0007015,actin filament organization,2.95E-05,1.27E-03,2.14,11186,181,924,32
+gill,downregulated,GO:0001816,cytokine production,2.99E-05,1.28E-03,3.12,11186,62,924,16
+gill,downregulated,GO:0051047,positive regulation of secretion,3.04E-05,1.30E-03,1.88,11186,283,924,44
+gill,downregulated,GO:0009893,positive regulation of metabolic process,3.06E-05,1.31E-03,1.24,11186,2537,924,260
+gill,downregulated,GO:0045595,regulation of cell differentiation,3.12E-05,1.33E-03,1.36,11186,1345,924,151
+gill,downregulated,GO:1904892,regulation of STAT cascade,3.26E-05,1.39E-03,2.98,11186,69,924,17
+gill,downregulated,GO:2000147,positive regulation of cell motility,3.35E-05,1.42E-03,1.74,11186,383,924,55
+gill,downregulated,GO:0008154,actin polymerization or depolymerization,3.38E-05,1.43E-03,3.82,11186,38,924,12
+gill,downregulated,GO:0033993,response to lipid,3.44E-05,1.45E-03,1.63,11186,505,924,68
+gill,downregulated,GO:0032479,regulation of type I interferon production,3.45E-05,1.45E-03,2.69,11186,90,924,20
+gill,downregulated,GO:0040017,positive regulation of locomotion,3.76E-05,1.57E-03,1.71,11186,403,924,57
+gill,downregulated,GO:0071496,cellular response to external stimulus,3.78E-05,1.58E-03,1.95,11186,242,924,39
+gill,downregulated,GO:0070374,positive regulation of ERK1 and ERK2 cascade,3.79E-05,1.58E-03,2.42,11186,120,924,24
+gill,downregulated,GO:0050714,positive regulation of protein secretion,3.80E-05,1.58E-03,2.17,11186,167,924,30
+gill,downregulated,GO:1903531,negative regulation of secretion by cell,4.00E-05,1.65E-03,2.36,11186,128,924,25
+gill,downregulated,GO:2000026,regulation of multicellular organismal development,4.11E-05,1.70E-03,1.33,11186,1523,924,167
+gill,downregulated,GO:0071356,cellular response to tumor necrosis factor,4.13E-05,1.70E-03,2.83,11186,77,924,18
+gill,downregulated,GO:0050715,positive regulation of cytokine secretion,4.13E-05,1.69E-03,2.83,11186,77,924,18
+gill,downregulated,GO:0045862,positive regulation of proteolysis,4.15E-05,1.70E-03,1.89,11186,269,924,42
+gill,downregulated,GO:0046777,protein autophosphorylation,4.24E-05,1.73E-03,2.27,11186,144,924,27
+gill,downregulated,GO:1901701,cellular response to oxygen-containing compound,4.28E-05,1.74E-03,1.56,11186,605,924,78
+gill,downregulated,GO:0097028,dendritic cell differentiation,4.34E-05,1.76E-03,5.38,11186,18,924,8
+gill,downregulated,GO:0051272,positive regulation of cellular component movement,4.42E-05,1.79E-03,1.71,11186,396,924,56
+gill,downregulated,GO:0042102,positive regulation of T cell proliferation,4.44E-05,1.79E-03,3.32,11186,51,924,14
+gill,downregulated,GO:0014068,positive regulation of phosphatidylinositol 3-kinase signaling,4.57E-05,1.84E-03,3.03,11186,64,924,16
+gill,downregulated,GO:0051091,positive regulation of DNA-binding transcription factor activity,4.61E-05,1.85E-03,2.09,11186,185,924,32
+gill,downregulated,GO:0043374,"CD8-positive, alpha-beta T cell differentiation",4.63E-05,1.85E-03,12.11,11186,4,924,4
+gill,downregulated,GO:2000516,"positive regulation of CD4-positive, alpha-beta T cell activation",4.86E-05,1.94E-03,4.74,11186,23,924,9
+gill,downregulated,GO:0010919,regulation of inositol phosphate biosynthetic process,4.91E-05,1.96E-03,7.26,11186,10,924,6
+gill,downregulated,GO:0097284,hepatocyte apoptotic process,4.91E-05,1.95E-03,7.26,11186,10,924,6
+gill,downregulated,GO:0051250,negative regulation of lymphocyte activation,4.94E-05,1.96E-03,2.71,11186,85,924,19
+gill,downregulated,GO:0030183,B cell differentiation,5.13E-05,2.03E-03,3.13,11186,58,924,15
+gill,downregulated,GO:0045061,thymic T cell selection,5.25E-05,2.07E-03,6.05,11186,14,924,7
+gill,downregulated,GO:0098581,detection of external biotic stimulus,5.25E-05,2.06E-03,6.05,11186,14,924,7
+gill,downregulated,GO:0051049,regulation of transport,5.48E-05,2.15E-03,1.35,11186,1296,924,145
+gill,downregulated,GO:0002711,positive regulation of T cell mediated immunity,5.58E-05,2.18E-03,3.92,11186,34,924,11
+gill,downregulated,GO:0046638,positive regulation of alpha-beta T cell differentiation,5.58E-05,2.17E-03,3.92,11186,34,924,11
+gill,downregulated,GO:0051090,regulation of DNA-binding transcription factor activity,6.06E-05,2.35E-03,1.82,11186,300,924,45
+gill,downregulated,GO:1903532,positive regulation of secretion by cell,6.30E-05,2.44E-03,1.87,11186,265,924,41
+gill,downregulated,GO:1903707,negative regulation of hemopoiesis,6.66E-05,2.57E-03,2.58,11186,94,924,20
+gill,downregulated,GO:0032268,regulation of cellular protein metabolic process,6.68E-05,2.58E-03,1.28,11186,1841,924,195
+gill,downregulated,GO:0014066,regulation of phosphatidylinositol 3-kinase signaling,6.93E-05,2.66E-03,2.64,11186,87,924,19
+gill,downregulated,GO:0032494,response to peptidoglycan,6.94E-05,2.66E-03,8.65,11186,7,924,5
+gill,downregulated,GO:0002523,leukocyte migration involved in inflammatory response,6.94E-05,2.65E-03,8.65,11186,7,924,5
+gill,downregulated,GO:0033625,positive regulation of integrin activation,6.94E-05,2.65E-03,8.65,11186,7,924,5
+gill,downregulated,GO:0032946,positive regulation of mononuclear cell proliferation,7.06E-05,2.69E-03,2.82,11186,73,924,17
+gill,downregulated,GO:0050671,positive regulation of lymphocyte proliferation,7.06E-05,2.68E-03,2.82,11186,73,924,17
+gill,downregulated,GO:0032755,positive regulation of interleukin-6 production,7.06E-05,2.67E-03,3.2,11186,53,924,14
+gill,downregulated,GO:0043405,regulation of MAP kinase activity,7.20E-05,2.72E-03,1.9,11186,249,924,39
+gill,downregulated,GO:0071396,cellular response to lipid,7.49E-05,2.82E-03,1.86,11186,267,924,41
+gill,downregulated,GO:0034612,response to tumor necrosis factor,7.80E-05,2.93E-03,2.55,11186,95,924,20
+gill,downregulated,GO:0051607,defense response to virus,7.80E-05,2.92E-03,2.55,11186,95,924,20
+gill,downregulated,GO:0090087,regulation of peptide transport,8.15E-05,3.05E-03,1.59,11186,519,924,68
+gill,downregulated,GO:0045597,positive regulation of cell differentiation,8.16E-05,3.04E-03,1.48,11186,726,924,89
+gill,downregulated,GO:0002224,toll-like receptor signaling pathway,8.30E-05,3.09E-03,2.89,11186,67,924,16
+gill,downregulated,GO:0046425,regulation of JAK-STAT cascade,8.30E-05,3.08E-03,2.89,11186,67,924,16
+gill,downregulated,GO:0001773,myeloid dendritic cell activation,9.14E-05,3.38E-03,5.65,11186,15,924,7
+gill,downregulated,GO:0050855,regulation of B cell receptor signaling pathway,9.14E-05,3.37E-03,5.65,11186,15,924,7
+gill,downregulated,GO:0051223,regulation of protein transport,9.35E-05,3.44E-03,1.59,11186,502,924,66
+gill,downregulated,GO:0051094,positive regulation of developmental process,9.37E-05,3.44E-03,1.4,11186,1005,924,116
+gill,downregulated,GO:0006919,activation of cysteine-type endopeptidase activity involved in apoptotic process,9.62E-05,3.52E-03,2.98,11186,61,924,15
+gill,downregulated,GO:0043011,myeloid dendritic cell differentiation,1.01E-04,3.67E-03,6.6,11186,11,924,6
+gill,downregulated,GO:0016064,immunoglobulin mediated immune response,1.01E-04,3.66E-03,6.6,11186,11,924,6
+gill,downregulated,GO:0060263,regulation of respiratory burst,1.01E-04,3.65E-03,6.6,11186,11,924,6
+gill,downregulated,GO:0042509,regulation of tyrosine phosphorylation of STAT protein,1.01E-04,3.67E-03,3.46,11186,42,924,12
+gill,downregulated,GO:1905521,regulation of macrophage migration,1.04E-04,3.78E-03,4.36,11186,25,924,9
+gill,downregulated,GO:0002292,T cell differentiation involved in immune response,1.08E-04,3.88E-03,4.84,11186,20,924,8
+gill,downregulated,GO:0032673,regulation of interleukin-4 production,1.08E-04,3.87E-03,4.84,11186,20,924,8
+gill,downregulated,GO:0032735,positive regulation of interleukin-12 production,1.08E-04,3.86E-03,4.84,11186,20,924,8
+gill,downregulated,GO:0051896,regulation of protein kinase B signaling,1.12E-04,3.99E-03,2.15,11186,152,924,27
+gill,downregulated,GO:0051048,negative regulation of secretion,1.12E-04,4.02E-03,2.23,11186,136,924,25
+gill,downregulated,GO:0001933,negative regulation of protein phosphorylation,1.13E-04,4.04E-03,1.76,11186,317,924,46
+gill,downregulated,GO:0033209,tumor necrosis factor-mediated signaling pathway,1.17E-04,4.18E-03,2.63,11186,83,924,18
+gill,downregulated,GO:0090066,regulation of anatomical structure size,1.24E-04,4.41E-03,1.79,11186,291,924,43
+gill,downregulated,GO:0043370,"regulation of CD4-positive, alpha-beta T cell differentiation",1.25E-04,4.43E-03,3.91,11186,31,924,10
+gill,downregulated,GO:0042326,negative regulation of phosphorylation,1.27E-04,4.47E-03,1.71,11186,346,924,49
+gill,downregulated,GO:0038093,Fc receptor signaling pathway,1.27E-04,4.47E-03,2.21,11186,137,924,25
+gill,downregulated,GO:0051701,interaction with host,1.31E-04,4.60E-03,2.4,11186,106,924,21
+gill,downregulated,GO:0032648,regulation of interferon-beta production,1.33E-04,4.64E-03,3.6,11186,37,924,11
+gill,downregulated,GO:0061515,myeloid cell development,1.33E-04,4.63E-03,3.6,11186,37,924,11
+gill,downregulated,GO:0032729,positive regulation of interferon-gamma production,1.33E-04,4.62E-03,3.6,11186,37,924,11
+gill,downregulated,GO:0006665,sphingolipid metabolic process,1.37E-04,4.77E-03,2.34,11186,114,924,22
+gill,downregulated,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,1.43E-04,4.96E-03,2.67,11186,77,924,17
+gill,downregulated,GO:0051173,positive regulation of nitrogen compound metabolic process,1.45E-04,5.01E-03,1.24,11186,2232,924,228
+gill,downregulated,GO:0030890,positive regulation of B cell proliferation,1.48E-04,5.12E-03,4.19,11186,26,924,9
+gill,downregulated,GO:0002833,positive regulation of response to biotic stimulus,1.48E-04,5.11E-03,4.19,11186,26,924,9
+gill,downregulated,GO:0002287,alpha-beta T cell activation involved in immune response,1.51E-04,5.19E-03,5.3,11186,16,924,7
+gill,downregulated,GO:0002293,alpha-beta T cell differentiation involved in immune response,1.51E-04,5.17E-03,5.3,11186,16,924,7
+gill,downregulated,GO:0001914,regulation of T cell mediated cytotoxicity,1.51E-04,5.16E-03,5.3,11186,16,924,7
+gill,downregulated,GO:0045453,bone resorption,1.51E-04,5.15E-03,5.3,11186,16,924,7
+gill,downregulated,GO:0032753,positive regulation of interleukin-4 production,1.51E-04,5.14E-03,5.3,11186,16,924,7
+gill,downregulated,GO:0032480,negative regulation of type I interferon production,1.69E-04,5.73E-03,3.78,11186,32,924,10
+gill,downregulated,GO:0050878,regulation of body fluid levels,1.70E-04,5.76E-03,1.82,11186,259,924,39
+gill,downregulated,GO:0043549,regulation of kinase activity,1.74E-04,5.89E-03,1.48,11186,661,924,81
+gill,downregulated,GO:0006643,membrane lipid metabolic process,1.79E-04,6.03E-03,2.13,11186,148,924,26
+gill,downregulated,GO:0045936,negative regulation of phosphate metabolic process,1.99E-04,6.69E-03,1.61,11186,428,924,57
+gill,downregulated,GO:0009615,response to virus,2.00E-04,6.71E-03,2.11,11186,149,924,26
+gill,downregulated,GO:1904894,positive regulation of STAT cascade,2.09E-04,7.00E-03,3.23,11186,45,924,12
+gill,downregulated,GO:0010563,negative regulation of phosphorus metabolic process,2.11E-04,7.07E-03,1.61,11186,429,924,57
+gill,downregulated,GO:0036037,"CD8-positive, alpha-beta T cell activation",2.16E-04,7.21E-03,9.68,11186,5,924,4
+gill,downregulated,GO:0060264,regulation of respiratory burst involved in inflammatory response,2.16E-04,7.19E-03,9.68,11186,5,924,4
+gill,downregulated,GO:0045124,regulation of bone resorption,2.24E-04,7.45E-03,3.67,11186,33,924,10
+gill,downregulated,GO:0031400,negative regulation of protein modification process,2.27E-04,7.51E-03,1.58,11186,459,924,60
+gill,downregulated,GO:0010604,positive regulation of macromolecule metabolic process,2.35E-04,7.76E-03,1.22,11186,2328,924,235
+gill,downregulated,GO:0043367,"CD4-positive, alpha-beta T cell differentiation",2.38E-04,7.86E-03,4.98,11186,17,924,7
+gill,downregulated,GO:0051828,entry into other organism involved in symbiotic interaction,2.48E-04,8.15E-03,2.75,11186,66,924,15
+gill,downregulated,GO:0051806,entry into cell of other organism involved in symbiotic interaction,2.48E-04,8.13E-03,2.75,11186,66,924,15
+gill,downregulated,GO:0030260,entry into host cell,2.48E-04,8.12E-03,2.75,11186,66,924,15
+gill,downregulated,GO:0044409,entry into host,2.48E-04,8.10E-03,2.75,11186,66,924,15
+gill,downregulated,GO:0071347,cellular response to interleukin-1,2.62E-04,8.54E-03,3.16,11186,46,924,12
+gill,downregulated,GO:0045859,regulation of protein kinase activity,2.73E-04,8.87E-03,1.5,11186,580,924,72
+gill,downregulated,GO:0002690,positive regulation of leukocyte chemotaxis,2.85E-04,9.27E-03,2.97,11186,53,924,13
+gill,downregulated,GO:0014015,positive regulation of gliogenesis,2.85E-04,9.24E-03,2.97,11186,53,924,13
+gill,downregulated,GO:0032732,positive regulation of interleukin-1 production,2.95E-04,9.52E-03,3.56,11186,34,924,10
+gill,downregulated,GO:0038094,Fc-gamma receptor signaling pathway,2.96E-04,9.53E-03,2.82,11186,60,924,14
+gill,downregulated,GO:0043406,positive regulation of MAP kinase activity,3.23E-04,1.04E-02,1.91,11186,196,924,31
+gill,downregulated,GO:1904018,positive regulation of vasculature development,3.32E-04,1.06E-02,2.16,11186,129,924,23
+gill,downregulated,GO:1904019,epithelial cell apoptotic process,3.35E-04,1.07E-02,4.21,11186,23,924,8
+gill,downregulated,GO:0001894,tissue homeostasis,3.43E-04,1.10E-02,2.42,11186,90,924,18
+gill,downregulated,GO:0043368,positive T cell selection,3.62E-04,1.15E-02,6.73,11186,9,924,5
+gill,downregulated,GO:0010818,T cell chemotaxis,3.62E-04,1.15E-02,6.73,11186,9,924,5
+gill,downregulated,GO:0010917,negative regulation of mitochondrial membrane potential,3.62E-04,1.15E-02,6.73,11186,9,924,5
+gill,downregulated,GO:1902187,negative regulation of viral release from host cell,3.62E-04,1.15E-02,6.73,11186,9,924,5
+gill,downregulated,GO:0045837,negative regulation of membrane potential,3.62E-04,1.14E-02,6.73,11186,9,924,5
+gill,downregulated,GO:0045123,cellular extravasation,3.62E-04,1.14E-02,6.73,11186,9,924,5
+gill,downregulated,GO:0042534,regulation of tumor necrosis factor biosynthetic process,3.62E-04,1.14E-02,4.71,11186,18,924,7
+gill,downregulated,GO:0042269,regulation of natural killer cell mediated cytotoxicity,3.62E-04,1.14E-02,4.71,11186,18,924,7
+gill,downregulated,GO:0002861,regulation of inflammatory response to antigenic stimulus,3.62E-04,1.14E-02,4.71,11186,18,924,7
+gill,downregulated,GO:0044419,interspecies interaction between organisms,3.81E-04,1.19E-02,1.46,11186,657,924,79
+gill,downregulated,GO:0050710,negative regulation of cytokine secretion,3.82E-04,1.19E-02,3.46,11186,35,924,10
+gill,downregulated,GO:0070302,regulation of stress-activated protein kinase signaling cascade,3.83E-04,1.19E-02,1.97,11186,172,924,28
+gill,downregulated,GO:0019933,cAMP-mediated signaling,3.96E-04,1.23E-02,2.39,11186,91,924,18
+gill,downregulated,GO:0048525,negative regulation of viral process,4.02E-04,1.25E-02,3.03,11186,48,924,12
+gill,downregulated,GO:0051338,regulation of transferase activity,4.04E-04,1.25E-02,1.42,11186,750,924,88
+gill,downregulated,GO:0010508,positive regulation of autophagy,4.12E-04,1.27E-02,2.32,11186,99,924,19
+gill,downregulated,GO:0008064,regulation of actin polymerization or depolymerization,4.17E-04,1.29E-02,2.13,11186,131,924,23
+gill,downregulated,GO:0070201,regulation of establishment of protein localization,4.27E-04,1.31E-02,1.5,11186,539,924,67
+gill,downregulated,GO:0002831,regulation of response to biotic stimulus,4.30E-04,1.32E-02,2.45,11186,84,924,17
+gill,downregulated,GO:1901698,response to nitrogen compound,4.35E-04,1.33E-02,1.45,11186,670,924,80
+gill,downregulated,GO:0002449,lymphocyte mediated immunity,4.52E-04,1.38E-02,3.17,11186,42,924,11
+gill,downregulated,GO:0002698,negative regulation of immune effector process,4.62E-04,1.41E-02,2.52,11186,77,924,16
+gill,downregulated,GO:0032535,regulation of cellular component size,4.63E-04,1.41E-02,1.88,11186,200,924,31
+gill,downregulated,GO:0030832,regulation of actin filament length,4.66E-04,1.42E-02,2.11,11186,132,924,23
+gill,downregulated,GO:0050690,regulation of defense response to virus by virus,4.66E-04,1.41E-02,4.04,11186,24,924,8
+gill,downregulated,GO:0007264,small GTPase mediated signal transduction,4.81E-04,1.46E-02,1.92,11186,183,924,29
+gill,downregulated,GO:0071902,positive regulation of protein serine/threonine kinase activity,5.17E-04,1.56E-02,1.76,11186,255,924,37
+gill,downregulated,GO:0009968,negative regulation of signal transduction,5.17E-04,1.56E-02,1.36,11186,943,924,106
+gill,downregulated,GO:0001916,positive regulation of T cell mediated cytotoxicity,5.26E-04,1.58E-02,5.19,11186,14,924,6
+gill,downregulated,GO:1901223,negative regulation of NIK/NF-kappaB signaling,5.26E-04,1.58E-02,5.19,11186,14,924,6
+gill,downregulated,GO:2000316,regulation of T-helper 17 type immune response,5.26E-04,1.57E-02,5.19,11186,14,924,6
+gill,downregulated,GO:0043372,"positive regulation of CD4-positive, alpha-beta T cell differentiation",5.33E-04,1.59E-02,4.46,11186,19,924,7
+gill,downregulated,GO:0002548,monocyte chemotaxis,5.33E-04,1.59E-02,4.46,11186,19,924,7
+gill,downregulated,GO:0002715,regulation of natural killer cell mediated immunity,5.33E-04,1.59E-02,4.46,11186,19,924,7
+gill,downregulated,GO:0060334,regulation of interferon-gamma-mediated signaling pathway,5.33E-04,1.58E-02,4.46,11186,19,924,7
+gill,downregulated,GO:0060330,regulation of response to interferon-gamma,5.33E-04,1.58E-02,4.46,11186,19,924,7
+gill,downregulated,GO:0035710,"CD4-positive, alpha-beta T cell activation",5.33E-04,1.58E-02,4.46,11186,19,924,7
+gill,downregulated,GO:0002232,leukocyte chemotaxis involved in inflammatory response,5.62E-04,1.66E-02,12.11,11186,3,924,3
+gill,downregulated,GO:0002553,histamine secretion by mast cell,5.62E-04,1.66E-02,12.11,11186,3,924,3
+gill,downregulated,GO:0002441,histamine secretion involved in inflammatory response,5.62E-04,1.65E-02,12.11,11186,3,924,3
+gill,downregulated,GO:0046427,positive regulation of JAK-STAT cascade,5.63E-04,1.65E-02,3.1,11186,43,924,11
+gill,downregulated,GO:0002455,humoral immune response mediated by circulating immunoglobulin,6.06E-04,1.77E-02,8.07,11186,6,924,4
+gill,downregulated,GO:0001973,adenosine receptor signaling pathway,6.06E-04,1.77E-02,8.07,11186,6,924,4
+gill,downregulated,GO:0046629,gamma-delta T cell activation,6.06E-04,1.77E-02,8.07,11186,6,924,4
+gill,downregulated,GO:0010522,regulation of calcium ion transport into cytosol,6.10E-04,1.77E-02,2.76,11186,57,924,13
+gill,downregulated,GO:0002433,immune response-regulating cell surface receptor signaling pathway involved in phagocytosis,6.10E-04,1.77E-02,2.76,11186,57,924,13
+gill,downregulated,GO:0038096,Fc-gamma receptor signaling pathway involved in phagocytosis,6.10E-04,1.77E-02,2.76,11186,57,924,13
+gill,downregulated,GO:0033628,regulation of cell adhesion mediated by integrin,6.23E-04,1.80E-02,3.27,11186,37,924,10
+gill,downregulated,GO:1903901,negative regulation of viral life cycle,6.23E-04,1.80E-02,3.27,11186,37,924,10
+gill,downregulated,GO:0002886,regulation of myeloid leukocyte mediated immunity,6.23E-04,1.80E-02,3.27,11186,37,924,10
+gill,downregulated,GO:0046850,regulation of bone remodeling,6.23E-04,1.79E-02,3.27,11186,37,924,10
+gill,downregulated,GO:0002820,negative regulation of adaptive immune response,6.37E-04,1.83E-02,3.87,11186,25,924,8
+gill,downregulated,GO:0010648,negative regulation of cell communication,6.39E-04,1.83E-02,1.34,11186,1012,924,112
+gill,downregulated,GO:0051051,negative regulation of transport,6.43E-04,1.84E-02,1.65,11186,323,924,44
+gill,downregulated,GO:0032872,regulation of stress-activated MAPK cascade,6.53E-04,1.86E-02,1.93,11186,169,924,27
+gill,downregulated,GO:0006911,"phagocytosis, engulfment",6.56E-04,1.87E-02,3.51,11186,31,924,9
+gill,downregulated,GO:1903556,negative regulation of tumor necrosis factor superfamily cytokine production,6.56E-04,1.86E-02,3.51,11186,31,924,9
+gill,downregulated,GO:0032693,negative regulation of interleukin-10 production,6.74E-04,1.91E-02,6.05,11186,10,924,5
+gill,downregulated,GO:0023057,negative regulation of signaling,6.88E-04,1.95E-02,1.34,11186,1014,924,112
+gill,downregulated,GO:0046578,regulation of Ras protein signal transduction,6.91E-04,1.95E-02,2.02,11186,144,924,24
+gill,downregulated,GO:0002460,adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,6.96E-04,1.96E-02,3.03,11186,44,924,11
+gill,downregulated,GO:0032677,regulation of interleukin-8 production,6.96E-04,1.96E-02,3.03,11186,44,924,11
+gill,downregulated,GO:0002573,myeloid leukocyte differentiation,7.05E-04,1.98E-02,2.61,11186,65,924,14
+gill,downregulated,GO:0035023,regulation of Rho protein signal transduction,7.05E-04,1.98E-02,2.61,11186,65,924,14
+gill,downregulated,GO:0043269,regulation of ion transport,7.55E-04,2.11E-02,1.53,11186,451,924,57
+gill,downregulated,GO:0031323,regulation of cellular metabolic process,7.56E-04,2.11E-02,1.14,11186,3994,924,375
+gill,downregulated,GO:0019882,antigen processing and presentation,7.61E-04,2.12E-02,1.94,11186,162,924,26
+gill,downregulated,GO:0030029,actin filament-based process,7.96E-04,2.21E-02,1.67,11186,298,924,41
+gill,downregulated,GO:0046488,phosphatidylinositol metabolic process,7.99E-04,2.22E-02,2.03,11186,137,924,23
+gill,downregulated,GO:0002294,"CD4-positive, alpha-beta T cell differentiation involved in immune response",8.16E-04,2.26E-02,4.84,11186,15,924,6
+gill,downregulated,GO:0045589,regulation of regulatory T cell differentiation,8.16E-04,2.26E-02,4.84,11186,15,924,6
+gill,downregulated,GO:0045408,regulation of interleukin-6 biosynthetic process,8.16E-04,2.25E-02,4.84,11186,15,924,6
+gill,downregulated,GO:0042093,T-helper cell differentiation,8.16E-04,2.25E-02,4.84,11186,15,924,6
+gill,downregulated,GO:0019724,B cell mediated immunity,8.16E-04,2.24E-02,4.84,11186,15,924,6
+gill,downregulated,GO:0042531,positive regulation of tyrosine phosphorylation of STAT protein,8.47E-04,2.33E-02,3.4,11186,32,924,9
+gill,downregulated,GO:0050704,regulation of interleukin-1 secretion,8.47E-04,2.32E-02,3.4,11186,32,924,9
+gill,downregulated,GO:0002431,Fc receptor mediated stimulatory signaling pathway,8.64E-04,2.36E-02,2.67,11186,59,924,13
+gill,downregulated,GO:0070555,response to interleukin-1,9.69E-04,2.65E-02,2.53,11186,67,924,14
+gill,downregulated,GO:0022603,regulation of anatomical structure morphogenesis,9.71E-04,2.65E-02,1.37,11186,823,924,93
+gill,downregulated,GO:0035690,cellular response to drug,9.72E-04,2.64E-02,1.74,11186,236,924,34
+gill,downregulated,GO:0008285,negative regulation of cell proliferation,9.96E-04,2.70E-02,1.5,11186,476,924,59
+liver,upregulated,GO:0006886,intracellular protein transport,1.56E-04,1.00E+00,3.06,11186,657,78,14
+liver,upregulated,GO:0071702,organic substance transport,5.71E-04,1.00E+00,2.06,11186,1532,78,22
+liver,upregulated,GO:1901998,toxin transport,9.42E-04,1.00E+00,15.37,11186,28,78,3
+liver,downregulated,GO:0002376,immune system process,1.21E-29,1.77E-25,3.2,11186,1298,283,105
+liver,downregulated,GO:0006955,immune response,1.29E-28,9.43E-25,5.24,11186,475,283,63
+liver,downregulated,GO:0006952,defense response,7.43E-24,3.62E-20,4.32,11186,577,283,63
+liver,downregulated,GO:0007165,signal transduction,3.49E-23,1.28E-19,2.08,11186,2812,283,148
+liver,downregulated,GO:0002684,positive regulation of immune system process,8.03E-23,2.34E-19,4.07,11186,622,283,64
+liver,downregulated,GO:0007166,cell surface receptor signaling pathway,1.05E-22,2.56E-19,2.74,11186,1443,283,100
+liver,downregulated,GO:0002682,regulation of immune system process,3.91E-20,8.17E-17,3.13,11186,961,283,76
+liver,downregulated,GO:0019221,cytokine-mediated signaling pathway,1.35E-19,2.47E-16,4.78,11186,389,283,47
+liver,downregulated,GO:0001775,cell activation,1.97E-19,3.20E-16,3.61,11186,678,283,62
+liver,downregulated,GO:0050776,regulation of immune response,5.66E-19,8.27E-16,3.76,11186,610,283,58
+liver,downregulated,GO:0045321,leukocyte activation,6.15E-19,8.17E-16,3.81,11186,591,283,57
+liver,downregulated,GO:0050778,positive regulation of immune response,3.81E-18,4.64E-15,4.31,11186,440,283,48
+liver,downregulated,GO:0050900,leukocyte migration,1.17E-17,1.32E-14,6.85,11186,179,283,31
+liver,downregulated,GO:0048584,positive regulation of response to stimulus,1.39E-16,1.45E-13,2.38,11186,1526,283,92
+liver,downregulated,GO:0002253,activation of immune response,4.04E-16,3.94E-13,4.83,11186,311,283,38
+liver,downregulated,GO:0060326,cell chemotaxis,9.79E-16,8.94E-13,8.18,11186,116,283,24
+liver,downregulated,GO:0050867,positive regulation of cell activation,2.19E-15,1.88E-12,5.73,11186,214,283,31
+liver,downregulated,GO:0045087,innate immune response,4.22E-15,3.43E-12,5.22,11186,250,283,33
+liver,downregulated,GO:0002696,positive regulation of leukocyte activation,6.30E-15,4.84E-12,5.73,11186,207,283,30
+liver,downregulated,GO:0006935,chemotaxis,1.38E-14,1.01E-11,5.79,11186,198,283,29
+liver,downregulated,GO:0042330,taxis,1.58E-14,1.10E-11,5.76,11186,199,283,29
+liver,downregulated,GO:0002694,regulation of leukocyte activation,1.81E-14,1.20E-11,4.42,11186,331,283,37
+liver,downregulated,GO:0050865,regulation of cell activation,4.53E-14,2.88E-11,4.18,11186,359,283,38
+liver,downregulated,GO:0051249,regulation of lymphocyte activation,5.04E-14,3.06E-11,4.8,11186,272,283,33
+liver,downregulated,GO:0030595,leukocyte chemotaxis,7.23E-14,4.23E-11,9.39,11186,80,283,19
+liver,downregulated,GO:0046649,lymphocyte activation,7.84E-14,4.41E-11,5.22,11186,227,283,30
+liver,downregulated,GO:0050789,regulation of biological process,1.20E-13,6.51E-11,1.32,11186,7030,283,234
+liver,downregulated,GO:0002757,immune response-activating signal transduction,2.17E-13,1.13E-10,4.7,11186,269,283,32
+liver,downregulated,GO:0002764,immune response-regulating signaling pathway,2.88E-13,1.45E-10,4.51,11186,289,283,33
+liver,downregulated,GO:0050794,regulation of cellular process,3.26E-13,1.59E-10,1.34,11186,6607,283,224
+liver,downregulated,GO:0002521,leukocyte differentiation,4.18E-13,1.97E-10,5.5,11186,194,283,27
+liver,downregulated,GO:0040011,locomotion,5.98E-13,2.73E-10,2.95,11186,710,283,53
+liver,downregulated,GO:0016477,cell migration,5.98E-13,2.65E-10,3.18,11186,597,283,48
+liver,downregulated,GO:0030098,lymphocyte differentiation,6.06E-13,2.60E-10,6.54,11186,139,283,23
+liver,downregulated,GO:0006954,inflammatory response,2.34E-12,9.76E-10,4.76,11186,241,283,29
+liver,downregulated,GO:0065007,biological regulation,2.37E-12,9.60E-10,1.27,11186,7459,283,240
+liver,downregulated,GO:0048583,regulation of response to stimulus,2.94E-12,1.16E-09,1.74,11186,2841,283,125
+liver,downregulated,GO:0051251,positive regulation of lymphocyte activation,2.97E-12,1.14E-09,5.52,11186,179,283,25
+liver,downregulated,GO:0048870,cell motility,3.44E-12,1.29E-09,2.98,11186,649,283,49
+liver,downregulated,GO:0002252,immune effector process,4.70E-12,1.72E-09,3.05,11186,609,283,47
+liver,downregulated,GO:0050896,response to stimulus,5.78E-12,2.06E-09,1.65,11186,3314,283,138
+liver,downregulated,GO:0070098,chemokine-mediated signaling pathway,8.64E-12,3.00E-09,12.85,11186,40,283,13
+liver,downregulated,GO:0002429,immune response-activating cell surface receptor signaling pathway,4.47E-11,1.52E-08,4.89,11186,202,283,25
+liver,downregulated,GO:0002768,immune response-regulating cell surface receptor signaling pathway,5.68E-11,1.89E-08,4.65,11186,221,283,26
+liver,downregulated,GO:0031347,regulation of defense response,7.60E-11,2.47E-08,3.16,11186,500,283,40
+liver,downregulated,GO:0050863,regulation of T cell activation,1.55E-10,4.93E-08,4.82,11186,197,283,24
+liver,downregulated,GO:0006950,response to stress,2.09E-10,6.49E-08,1.85,11186,2027,283,95
+liver,downregulated,GO:0051707,response to other organism,2.62E-10,7.98E-08,3.81,11186,311,283,30
+liver,downregulated,GO:0009607,response to biotic stimulus,2.70E-10,8.05E-08,3.15,11186,477,283,38
+liver,downregulated,GO:0043207,response to external biotic stimulus,2.83E-10,8.28E-08,3.21,11186,456,283,37
+liver,downregulated,GO:1903037,regulation of leukocyte cell-cell adhesion,3.89E-10,1.11E-07,4.81,11186,189,283,23
+liver,downregulated,GO:0097529,myeloid leukocyte migration,4.92E-10,1.38E-07,8.65,11186,64,283,14
+liver,downregulated,GO:0001819,positive regulation of cytokine production,5.44E-10,1.50E-07,4.06,11186,263,283,27
+liver,downregulated,GO:0009605,response to external stimulus,7.78E-10,2.10E-07,2.39,11186,910,283,55
+liver,downregulated,GO:0001817,regulation of cytokine production,1.20E-09,3.19E-07,3.17,11186,436,283,35
+liver,downregulated,GO:0030155,regulation of cell adhesion,1.42E-09,3.70E-07,3.03,11186,483,283,37
+liver,downregulated,GO:1903039,positive regulation of leukocyte cell-cell adhesion,1.50E-09,3.85E-07,5.48,11186,137,283,19
+liver,downregulated,GO:0022409,positive regulation of cell-cell adhesion,1.58E-09,3.97E-07,4.91,11186,169,283,21
+liver,downregulated,GO:0007204,positive regulation of cytosolic calcium ion concentration,1.82E-09,4.50E-07,4.65,11186,187,283,22
+liver,downregulated,GO:0050851,antigen receptor-mediated signaling pathway,2.18E-09,5.30E-07,5.36,11186,140,283,19
+liver,downregulated,GO:0050870,positive regulation of T cell activation,2.87E-09,6.88E-07,5.6,11186,127,283,18
+liver,downregulated,GO:0022407,regulation of cell-cell adhesion,3.31E-09,7.81E-07,3.86,11186,266,283,26
+liver,downregulated,GO:0030593,neutrophil chemotaxis,3.60E-09,8.36E-07,10.6,11186,41,283,11
+liver,downregulated,GO:0032101,regulation of response to external stimulus,3.61E-09,8.23E-07,2.82,11186,546,283,39
+liver,downregulated,GO:0048518,positive regulation of biological process,3.91E-09,8.79E-07,1.46,11186,4124,283,152
+liver,downregulated,GO:0006928,movement of cell or subcellular component,4.16E-09,9.22E-07,2.28,11186,953,283,55
+liver,downregulated,GO:0009617,response to bacterium,4.45E-09,9.71E-07,5.14,11186,146,283,19
+liver,downregulated,GO:0097530,granulocyte migration,4.56E-09,9.80E-07,9.12,11186,52,283,12
+liver,downregulated,GO:0070663,regulation of leukocyte proliferation,6.10E-09,1.29E-06,5.35,11186,133,283,18
+liver,downregulated,GO:0030154,cell differentiation,7.54E-09,1.57E-06,2.06,11186,1248,283,65
+liver,downregulated,GO:0071621,granulocyte chemotaxis,1.06E-08,2.18E-06,9.66,11186,45,283,11
+liver,downregulated,GO:0050670,regulation of lymphocyte proliferation,1.18E-08,2.39E-06,5.46,11186,123,283,17
+liver,downregulated,GO:0022603,regulation of anatomical structure morphogenesis,1.28E-08,2.56E-06,2.35,11186,823,283,49
+liver,downregulated,GO:0032944,regulation of mononuclear cell proliferation,1.34E-08,2.64E-06,5.42,11186,124,283,17
+liver,downregulated,GO:1990266,neutrophil migration,1.36E-08,2.65E-06,9.45,11186,46,283,11
+liver,downregulated,GO:0002366,leukocyte activation involved in immune response,1.45E-08,2.80E-06,3.07,11186,412,283,32
+liver,downregulated,GO:0030183,B cell differentiation,1.72E-08,3.27E-06,8.18,11186,58,283,12
+liver,downregulated,GO:0002263,cell activation involved in immune response,1.73E-08,3.24E-06,3.05,11186,415,283,32
+liver,downregulated,GO:0050864,regulation of B cell activation,1.77E-08,3.27E-06,6.67,11186,83,283,14
+liver,downregulated,GO:0042113,B cell activation,1.85E-08,3.37E-06,6.11,11186,97,283,15
+liver,downregulated,GO:0002274,myeloid leukocyte activation,2.07E-08,3.74E-06,3.09,11186,396,283,31
+liver,downregulated,GO:0050727,regulation of inflammatory response,2.11E-08,3.76E-06,3.78,11186,251,283,24
+liver,downregulated,GO:0042742,defense response to bacterium,2.83E-08,4.98E-06,6.43,11186,86,283,14
+liver,downregulated,GO:0051480,regulation of cytosolic calcium ion concentration,2.91E-08,5.07E-06,4.01,11186,217,283,22
+liver,downregulated,GO:0045785,positive regulation of cell adhesion,4.79E-08,8.24E-06,3.5,11186,282,283,25
+liver,downregulated,GO:0007186,G protein-coupled receptor signaling pathway,5.04E-08,8.56E-06,2.74,11186,504,283,35
+liver,downregulated,GO:0050793,regulation of developmental process,5.35E-08,8.99E-06,1.75,11186,1894,283,84
+liver,downregulated,GO:0035556,intracellular signal transduction,6.92E-08,1.15E-05,2.05,11186,1118,283,58
+liver,downregulated,GO:0031294,lymphocyte costimulation,8.47E-08,1.39E-05,10.78,11186,33,283,9
+liver,downregulated,GO:0031295,T cell costimulation,8.47E-08,1.37E-05,10.78,11186,33,283,9
+liver,downregulated,GO:0042035,regulation of cytokine biosynthetic process,9.45E-08,1.52E-05,7.08,11186,67,283,12
+liver,downregulated,GO:0050871,positive regulation of B cell activation,9.96E-08,1.58E-05,7.91,11186,55,283,11
+liver,downregulated,GO:0044093,positive regulation of molecular function,1.06E-07,1.66E-05,1.95,11186,1277,283,63
+liver,downregulated,GO:0051240,positive regulation of multicellular organismal process,1.11E-07,1.72E-05,1.98,11186,1220,283,61
+liver,downregulated,GO:0048869,cellular developmental process,1.13E-07,1.74E-05,1.75,11186,1830,283,81
+liver,downregulated,GO:0040012,regulation of locomotion,1.44E-07,2.18E-05,2.36,11186,702,283,42
+liver,downregulated,GO:0050830,defense response to Gram-positive bacterium,1.48E-07,2.23E-05,10.16,11186,35,283,9
+liver,downregulated,GO:0006874,cellular calcium ion homeostasis,2.07E-07,3.09E-05,3.35,11186,283,283,24
+liver,downregulated,GO:1902533,positive regulation of intracellular signal transduction,2.09E-07,3.09E-05,2.3,11186,738,283,43
+liver,downregulated,GO:0098542,defense response to other organism,2.15E-07,3.14E-05,4.06,11186,185,283,19
+liver,downregulated,GO:0051704,multi-organism process,2.37E-07,3.42E-05,2.08,11186,987,283,52
+liver,downregulated,GO:0002250,adaptive immune response,2.39E-07,3.43E-05,5.07,11186,117,283,15
+liver,downregulated,GO:0051239,regulation of multicellular organismal process,2.40E-07,3.40E-05,1.64,11186,2219,283,92
+liver,downregulated,GO:0048522,positive regulation of cellular process,2.54E-07,3.57E-05,1.43,11186,3723,283,135
+liver,downregulated,GO:1902105,regulation of leukocyte differentiation,2.77E-07,3.86E-05,3.99,11186,188,283,19
+liver,downregulated,GO:0050852,T cell receptor signaling pathway,3.35E-07,4.62E-05,4.94,11186,120,283,15
+liver,downregulated,GO:0055074,calcium ion homeostasis,3.46E-07,4.73E-05,3.26,11186,291,283,24
+liver,downregulated,GO:0072676,lymphocyte migration,4.07E-07,5.51E-05,9.12,11186,39,283,9
+liver,downregulated,GO:0072503,cellular divalent inorganic cation homeostasis,4.18E-07,5.60E-05,3.23,11186,294,283,24
+liver,downregulated,GO:0042129,regulation of T cell proliferation,4.94E-07,6.56E-05,5.59,11186,92,283,13
+liver,downregulated,GO:0065009,regulation of molecular function,4.97E-07,6.54E-05,1.65,11186,2056,283,86
+liver,downregulated,GO:0042116,macrophage activation,5.49E-07,7.15E-05,10.54,11186,30,283,8
+liver,downregulated,GO:0070665,positive regulation of leukocyte proliferation,6.15E-07,7.96E-05,6,11186,79,283,12
+liver,downregulated,GO:0042108,positive regulation of cytokine biosynthetic process,6.44E-07,8.25E-05,8.68,11186,41,283,9
+liver,downregulated,GO:0032760,positive regulation of tumor necrosis factor production,6.83E-07,8.68E-05,7.46,11186,53,283,10
+liver,downregulated,GO:0019722,calcium-mediated signaling,8.15E-07,1.03E-04,5.35,11186,96,283,13
+liver,downregulated,GO:1903557,positive regulation of tumor necrosis factor superfamily cytokine production,8.20E-07,1.02E-04,7.32,11186,54,283,10
+liver,downregulated,GO:0032502,developmental process,8.48E-07,1.05E-04,1.46,11186,3285,283,121
+liver,downregulated,GO:0072507,divalent inorganic cation homeostasis,1.03E-06,1.26E-04,3.07,11186,309,283,24
+liver,downregulated,GO:0002697,regulation of immune effector process,1.03E-06,1.25E-04,3.39,11186,245,283,21
+liver,downregulated,GO:0010818,T cell chemotaxis,1.16E-06,1.40E-04,21.96,11186,9,283,5
+liver,downregulated,GO:0042110,T cell activation,1.16E-06,1.39E-04,4.49,11186,132,283,15
+liver,downregulated,GO:1903706,regulation of hemopoiesis,1.27E-06,1.51E-04,2.95,11186,335,283,25
+liver,downregulated,GO:0048519,negative regulation of biological process,1.54E-06,1.81E-04,1.41,11186,3610,283,129
+liver,downregulated,GO:0050921,positive regulation of chemotaxis,1.57E-06,1.83E-04,5.52,11186,86,283,12
+liver,downregulated,GO:0002269,leukocyte activation involved in inflammatory response,1.61E-06,1.87E-04,14.82,11186,16,283,6
+liver,downregulated,GO:0001774,microglial cell activation,1.61E-06,1.85E-04,14.82,11186,16,283,6
+liver,downregulated,GO:0042127,regulation of cell proliferation,1.63E-06,1.86E-04,1.94,11186,1080,283,53
+liver,downregulated,GO:0009967,positive regulation of signal transduction,1.78E-06,2.01E-04,1.9,11186,1142,283,55
+liver,downregulated,GO:0045088,regulation of innate immune response,1.92E-06,2.16E-04,3.15,11186,276,283,22
+liver,downregulated,GO:0045619,regulation of lymphocyte differentiation,1.93E-06,2.16E-04,4.61,11186,120,283,14
+liver,downregulated,GO:0060333,interferon-gamma-mediated signaling pathway,1.98E-06,2.19E-04,9.03,11186,35,283,8
+liver,downregulated,GO:0032946,positive regulation of mononuclear cell proliferation,1.98E-06,2.17E-04,5.96,11186,73,283,11
+liver,downregulated,GO:0050671,positive regulation of lymphocyte proliferation,1.98E-06,2.16E-04,5.96,11186,73,283,11
+liver,downregulated,GO:0006968,cellular defense response,2.00E-06,2.17E-04,11.07,11186,25,283,7
+liver,downregulated,GO:0048247,lymphocyte chemotaxis,2.00E-06,2.15E-04,11.07,11186,25,283,7
+liver,downregulated,GO:0031349,positive regulation of defense response,2.04E-06,2.18E-04,3.14,11186,277,283,22
+liver,downregulated,GO:0043067,regulation of programmed cell death,2.29E-06,2.42E-04,1.93,11186,1063,283,52
+liver,downregulated,GO:0050829,defense response to Gram-negative bacterium,2.43E-06,2.56E-04,13.95,11186,17,283,6
+liver,downregulated,GO:0009966,regulation of signal transduction,2.57E-06,2.68E-04,1.59,11186,2169,283,87
+liver,downregulated,GO:0043299,leukocyte degranulation,2.67E-06,2.77E-04,2.83,11186,349,283,25
+liver,downregulated,GO:0050920,regulation of chemotaxis,2.69E-06,2.77E-04,4.2,11186,141,283,15
+liver,downregulated,GO:0048523,negative regulation of cellular process,2.94E-06,3.00E-04,1.43,11186,3251,283,118
+liver,downregulated,GO:0002218,activation of innate immune response,3.08E-06,3.13E-04,3.93,11186,161,283,16
+liver,downregulated,GO:0051246,regulation of protein metabolic process,3.16E-06,3.19E-04,1.62,11186,1981,283,81
+liver,downregulated,GO:0051270,regulation of cellular component movement,3.19E-06,3.19E-04,2.18,11186,707,283,39
+liver,downregulated,GO:0042981,regulation of apoptotic process,3.31E-06,3.29E-04,1.93,11186,1047,283,51
+liver,downregulated,GO:2000145,regulation of cell motility,3.39E-06,3.35E-04,2.23,11186,655,283,37
+liver,downregulated,GO:0042534,regulation of tumor necrosis factor biosynthetic process,3.57E-06,3.50E-04,13.18,11186,18,283,6
+liver,downregulated,GO:0072678,T cell migration,3.57E-06,3.48E-04,13.18,11186,18,283,6
+liver,downregulated,GO:0045089,positive regulation of innate immune response,4.12E-06,3.99E-04,3.49,11186,204,283,18
+liver,downregulated,GO:0002275,myeloid cell activation involved in immune response,4.21E-06,4.04E-04,2.76,11186,358,283,25
+liver,downregulated,GO:0042102,positive regulation of T cell proliferation,4.48E-06,4.28E-04,6.98,11186,51,283,9
+liver,downregulated,GO:0006875,cellular metal ion homeostasis,4.64E-06,4.40E-04,2.74,11186,360,283,25
+liver,downregulated,GO:0010941,regulation of cell death,4.96E-06,4.67E-04,1.85,11186,1151,283,54
+liver,downregulated,GO:0042592,homeostatic process,5.61E-06,5.25E-04,1.91,11186,1037,283,50
+liver,downregulated,GO:0030334,regulation of cell migration,5.64E-06,5.24E-04,2.25,11186,616,283,35
+liver,downregulated,GO:0030888,regulation of B cell proliferation,5.79E-06,5.35E-04,7.91,11186,40,283,8
+liver,downregulated,GO:0045055,regulated exocytosis,5.81E-06,5.34E-04,2.48,11186,462,283,29
+liver,downregulated,GO:0032653,regulation of interleukin-10 production,5.96E-06,5.44E-04,9.54,11186,29,283,7
+liver,downregulated,GO:0010647,positive regulation of cell communication,6.13E-06,5.56E-04,1.8,11186,1250,283,57
+liver,downregulated,GO:0002690,positive regulation of leukocyte chemotaxis,6.24E-06,5.63E-04,6.71,11186,53,283,9
+liver,downregulated,GO:0030217,T cell differentiation,6.36E-06,5.70E-04,5.3,11186,82,283,11
+liver,downregulated,GO:0045766,positive regulation of angiogenesis,7.78E-06,6.93E-04,4.39,11186,117,283,13
+liver,downregulated,GO:0032103,positive regulation of response to external stimulus,7.84E-06,6.94E-04,3.48,11186,193,283,17
+liver,downregulated,GO:0032680,regulation of tumor necrosis factor production,8.07E-06,7.10E-04,5.18,11186,84,283,11
+liver,downregulated,GO:0007155,cell adhesion,8.22E-06,7.19E-04,2.24,11186,600,283,34
+liver,downregulated,GO:0030335,positive regulation of cell migration,8.25E-06,7.17E-04,2.66,11186,372,283,25
+liver,downregulated,GO:0045577,regulation of B cell differentiation,9.80E-06,8.47E-04,11.29,11186,21,283,6
+liver,downregulated,GO:0022610,biological adhesion,1.02E-05,8.73E-04,2.22,11186,606,283,34
+liver,downregulated,GO:1903555,regulation of tumor necrosis factor superfamily cytokine production,1.02E-05,8.68E-04,5.06,11186,86,283,11
+liver,downregulated,GO:0055065,metal ion homeostasis,1.07E-05,9.10E-04,2.56,11186,402,283,26
+liver,downregulated,GO:0002407,dendritic cell chemotaxis,1.09E-05,9.21E-04,15.2,11186,13,283,5
+liver,downregulated,GO:0040017,positive regulation of locomotion,1.12E-05,9.40E-04,2.55,11186,403,283,26
+liver,downregulated,GO:0055080,cation homeostasis,1.18E-05,9.85E-04,2.44,11186,454,283,28
+liver,downregulated,GO:0010033,response to organic substance,1.21E-05,1.00E-03,1.69,11186,1497,283,64
+liver,downregulated,GO:0006959,humoral immune response,1.27E-05,1.05E-03,4.94,11186,88,283,11
+liver,downregulated,GO:0002819,regulation of adaptive immune response,1.31E-05,1.07E-03,4.52,11186,105,283,12
+liver,downregulated,GO:0055082,cellular chemical homeostasis,1.36E-05,1.11E-03,2.37,11186,483,283,29
+liver,downregulated,GO:2000147,positive regulation of cell motility,1.36E-05,1.11E-03,2.58,11186,383,283,25
+liver,downregulated,GO:0002687,positive regulation of leukocyte migration,1.39E-05,1.13E-03,5.41,11186,73,283,10
+liver,downregulated,GO:0030003,cellular cation homeostasis,1.45E-05,1.17E-03,2.51,11186,409,283,26
+liver,downregulated,GO:0023056,positive regulation of signaling,1.47E-05,1.17E-03,1.76,11186,1256,283,56
+liver,downregulated,GO:0098771,inorganic ion homeostasis,1.50E-05,1.19E-03,2.41,11186,460,283,28
+liver,downregulated,GO:0080134,regulation of response to stress,1.59E-05,1.26E-03,1.84,11186,1077,283,50
+liver,downregulated,GO:1905523,positive regulation of macrophage migration,1.66E-05,1.30E-03,14.12,11186,14,283,5
+liver,downregulated,GO:0061900,glial cell activation,1.75E-05,1.36E-03,10.31,11186,23,283,6
+liver,downregulated,GO:0050801,ion homeostasis,1.79E-05,1.39E-03,2.3,11186,516,283,30
+liver,downregulated,GO:2000026,regulation of multicellular organismal development,2.10E-05,1.62E-03,1.66,11186,1523,283,64
+liver,downregulated,GO:0006873,cellular ion homeostasis,2.12E-05,1.63E-03,2.46,11186,418,283,26
+liver,downregulated,GO:0043085,positive regulation of catalytic activity,2.20E-05,1.68E-03,1.84,11186,1030,283,48
+liver,downregulated,GO:0019725,cellular homeostasis,2.23E-05,1.69E-03,2.17,11186,602,283,33
+liver,downregulated,GO:1904018,positive regulation of vasculature development,2.26E-05,1.71E-03,3.98,11186,129,283,13
+liver,downregulated,GO:0046634,regulation of alpha-beta T cell activation,2.34E-05,1.76E-03,5.74,11186,62,283,9
+liver,downregulated,GO:0019932,second-messenger-mediated signaling,2.38E-05,1.78E-03,3.2,11186,210,283,17
+liver,downregulated,GO:0051272,positive regulation of cellular component movement,2.40E-05,1.79E-03,2.5,11186,396,283,25
+liver,downregulated,GO:0002758,innate immune response-activating signal transduction,2.43E-05,1.80E-03,3.71,11186,149,283,14
+liver,downregulated,GO:0032490,detection of molecule of bacterial origin,2.59E-05,1.91E-03,19.76,11186,8,283,4
+liver,downregulated,GO:0036230,granulocyte activation,2.74E-05,2.01E-03,2.6,11186,350,283,23
+liver,downregulated,GO:0071310,cellular response to organic substance,2.87E-05,2.10E-03,1.85,11186,981,283,46
+liver,downregulated,GO:0051345,positive regulation of hydrolase activity,3.07E-05,2.23E-03,2.23,11186,531,283,30
+liver,downregulated,GO:0032753,positive regulation of interleukin-4 production,3.48E-05,2.51E-03,12.35,11186,16,283,5
+liver,downregulated,GO:0009595,detection of biotic stimulus,3.48E-05,2.50E-03,12.35,11186,16,283,5
+liver,downregulated,GO:0048872,homeostasis of number of cells,3.53E-05,2.53E-03,4.88,11186,81,283,10
+liver,downregulated,GO:0050853,B cell receptor signaling pathway,3.74E-05,2.66E-03,9.12,11186,26,283,6
+liver,downregulated,GO:0050790,regulation of catalytic activity,3.88E-05,2.75E-03,1.61,11186,1618,283,66
+liver,downregulated,GO:0051247,positive regulation of protein metabolic process,3.98E-05,2.81E-03,1.74,11186,1207,283,53
+liver,downregulated,GO:0045765,regulation of angiogenesis,4.07E-05,2.86E-03,3.07,11186,219,283,17
+liver,downregulated,GO:0008360,regulation of cell shape,4.26E-05,2.98E-03,4.02,11186,118,283,12
+liver,downregulated,GO:0032675,regulation of interleukin-6 production,4.37E-05,3.04E-03,4.76,11186,83,283,10
+liver,downregulated,GO:0002688,regulation of leukocyte chemotaxis,4.42E-05,3.06E-03,5.31,11186,67,283,9
+liver,downregulated,GO:0043312,neutrophil degranulation,4.54E-05,3.13E-03,2.58,11186,337,283,22
+liver,downregulated,GO:0070887,cellular response to chemical stimulus,4.65E-05,3.19E-03,1.73,11186,1214,283,53
+liver,downregulated,GO:0035306,positive regulation of dephosphorylation,4.73E-05,3.23E-03,7.09,11186,39,283,7
+liver,downregulated,GO:1901342,regulation of vasculature development,4.75E-05,3.22E-03,2.92,11186,244,283,18
+liver,downregulated,GO:0036336,dendritic cell migration,4.82E-05,3.26E-03,11.63,11186,17,283,5
+liver,downregulated,GO:0070661,leukocyte proliferation,5.01E-05,3.38E-03,5.97,11186,53,283,8
+liver,downregulated,GO:0070374,positive regulation of ERK1 and ERK2 cascade,5.04E-05,3.38E-03,3.95,11186,120,283,12
+liver,downregulated,GO:0002283,neutrophil activation involved in immune response,5.19E-05,3.46E-03,2.56,11186,340,283,22
+liver,downregulated,GO:0051336,regulation of hydrolase activity,5.73E-05,3.80E-03,1.88,11186,860,283,41
+liver,downregulated,GO:0032570,response to progesterone,5.86E-05,3.87E-03,8.47,11186,28,283,6
+liver,downregulated,GO:0071622,regulation of granulocyte chemotaxis,5.86E-05,3.86E-03,8.47,11186,28,283,6
+liver,downregulated,GO:0002237,response to molecule of bacterial origin,6.23E-05,4.08E-03,3.24,11186,183,283,15
+liver,downregulated,GO:0010562,positive regulation of phosphorus metabolic process,6.26E-05,4.08E-03,1.94,11186,776,283,38
+liver,downregulated,GO:0045937,positive regulation of phosphate metabolic process,6.26E-05,4.06E-03,1.94,11186,776,283,38
+liver,downregulated,GO:0042494,detection of bacterial lipoprotein,6.29E-05,4.07E-03,29.64,11186,4,283,3
+liver,downregulated,GO:1902531,regulation of intracellular signal transduction,6.30E-05,4.06E-03,1.67,11186,1322,283,56
+liver,downregulated,GO:0006887,exocytosis,6.51E-05,4.17E-03,2.18,11186,526,283,29
+liver,downregulated,GO:0010646,regulation of cell communication,6.58E-05,4.19E-03,1.45,11186,2456,283,90
+liver,downregulated,GO:0034121,regulation of toll-like receptor signaling pathway,6.62E-05,4.21E-03,6.75,11186,41,283,7
+liver,downregulated,GO:0042119,neutrophil activation,6.73E-05,4.26E-03,2.51,11186,346,283,22
+liver,downregulated,GO:0018108,peptidyl-tyrosine phosphorylation,6.77E-05,4.26E-03,4.14,11186,105,283,11
+liver,downregulated,GO:0050848,regulation of calcium-mediated signaling,7.53E-05,4.72E-03,5.65,11186,56,283,8
+liver,downregulated,GO:0018212,peptidyl-tyrosine modification,8.05E-05,5.02E-03,4.06,11186,107,283,11
+liver,downregulated,GO:0051092,positive regulation of NF-kappaB transcription factor activity,8.05E-05,5.00E-03,4.06,11186,107,283,11
+liver,downregulated,GO:0042221,response to chemical,8.36E-05,5.17E-03,1.53,11186,1857,283,72
+liver,downregulated,GO:0032879,regulation of localization,8.71E-05,5.37E-03,1.51,11186,1960,283,75
+liver,downregulated,GO:0001932,regulation of protein phosphorylation,9.09E-05,5.58E-03,1.78,11186,998,283,45
+liver,downregulated,GO:0043069,negative regulation of programmed cell death,9.20E-05,5.63E-03,2.04,11186,619,283,32
+liver,downregulated,GO:0003018,vascular process in circulatory system,9.53E-05,5.80E-03,3.99,11186,109,283,11
+liver,downregulated,GO:0023051,regulation of signaling,1.03E-04,6.23E-03,1.43,11186,2485,283,90
+liver,downregulated,GO:0006911,"phagocytosis, engulfment",1.07E-04,6.49E-03,7.65,11186,31,283,6
+liver,downregulated,GO:0030097,hemopoiesis,1.10E-04,6.61E-03,5.36,11186,59,283,8
+liver,downregulated,GO:0032673,regulation of interleukin-4 production,1.14E-04,6.80E-03,9.88,11186,20,283,5
+liver,downregulated,GO:0032733,positive regulation of interleukin-10 production,1.14E-04,6.77E-03,9.88,11186,20,283,5
+liver,downregulated,GO:0071345,cellular response to cytokine stimulus,1.14E-04,6.75E-03,2.56,11186,309,283,20
+liver,downregulated,GO:0002683,negative regulation of immune system process,1.20E-04,7.10E-03,2.63,11186,286,283,19
+liver,downregulated,GO:0065008,regulation of biological quality,1.26E-04,7.41E-03,1.41,11186,2639,283,94
+liver,downregulated,GO:0043066,negative regulation of apoptotic process,1.36E-04,7.97E-03,2.03,11186,604,283,31
+liver,downregulated,GO:0002822,regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,1.39E-04,8.12E-03,4.16,11186,95,283,10
+liver,downregulated,GO:0032743,positive regulation of interleukin-2 production,1.46E-04,8.49E-03,9.41,11186,21,283,5
+liver,downregulated,GO:0032493,response to bacterial lipoprotein,1.54E-04,8.95E-03,23.72,11186,5,283,3
+liver,downregulated,GO:0002685,regulation of leukocyte migration,1.55E-04,8.92E-03,3.78,11186,115,283,11
+liver,downregulated,GO:0002285,lymphocyte activation involved in immune response,1.57E-04,9.04E-03,5.1,11186,62,283,8
+liver,downregulated,GO:0045580,regulation of T cell differentiation,1.66E-04,9.48E-03,4.07,11186,97,283,10
+liver,downregulated,GO:0045076,regulation of interleukin-2 biosynthetic process,1.69E-04,9.65E-03,13.18,11186,12,283,4
+liver,downregulated,GO:0098609,cell-cell adhesion,1.82E-04,1.04E-02,2.47,11186,320,283,20
+liver,downregulated,GO:0098742,cell-cell adhesion via plasma-membrane adhesion molecules,1.85E-04,1.05E-02,3.25,11186,158,283,13
+liver,downregulated,GO:0006958,"complement activation, classical pathway",1.85E-04,1.04E-02,8.98,11186,22,283,5
+liver,downregulated,GO:0048878,chemical homeostasis,2.04E-04,1.15E-02,1.89,11186,733,283,35
+liver,downregulated,GO:0051094,positive regulation of developmental process,2.14E-04,1.20E-02,1.73,11186,1005,283,44
+liver,downregulated,GO:0034341,response to interferon-gamma,2.20E-04,1.22E-02,4.86,11186,65,283,8
+liver,downregulated,GO:0070848,response to growth factor,2.34E-04,1.30E-02,2.76,11186,229,283,16
+liver,downregulated,GO:0042325,regulation of phosphorylation,2.37E-04,1.31E-02,1.67,11186,1134,283,48
+liver,downregulated,GO:0042535,positive regulation of tumor necrosis factor biosynthetic process,2.39E-04,1.32E-02,12.16,11186,13,283,4
+liver,downregulated,GO:0051091,positive regulation of DNA-binding transcription factor activity,2.53E-04,1.39E-02,2.99,11186,185,283,14
+liver,downregulated,GO:0032663,regulation of interleukin-2 production,2.56E-04,1.40E-02,6.59,11186,36,283,6
+liver,downregulated,GO:0048534,hematopoietic or lymphoid organ development,2.61E-04,1.42E-02,3.56,11186,122,283,11
+liver,downregulated,GO:0031325,positive regulation of cellular metabolic process,2.80E-04,1.52E-02,1.42,11186,2343,283,84
+liver,downregulated,GO:0006468,protein phosphorylation,2.81E-04,1.52E-02,1.92,11186,658,283,32
+liver,downregulated,GO:0046777,protein autophosphorylation,2.89E-04,1.56E-02,3.29,11186,144,283,12
+liver,downregulated,GO:0019220,regulation of phosphate metabolic process,3.01E-04,1.62E-02,1.61,11186,1273,283,52
+liver,downregulated,GO:0002824,positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,3.01E-04,1.61E-02,4.65,11186,68,283,8
+liver,downregulated,GO:0051174,regulation of phosphorus metabolic process,3.07E-04,1.64E-02,1.61,11186,1274,283,52
+liver,downregulated,GO:0003013,circulatory system process,3.08E-04,1.64E-02,3.27,11186,145,283,12
+liver,downregulated,GO:0034097,response to cytokine,3.11E-04,1.65E-02,2.26,11186,385,283,22
+liver,downregulated,GO:0002703,regulation of leukocyte mediated immunity,3.22E-04,1.70E-02,3.48,11186,125,283,11
+liver,downregulated,GO:0098581,detection of external biotic stimulus,3.29E-04,1.73E-02,11.29,11186,14,283,4
+liver,downregulated,GO:0030574,collagen catabolic process,3.51E-04,1.84E-02,7.91,11186,25,283,5
+liver,downregulated,GO:1905521,regulation of macrophage migration,3.51E-04,1.83E-02,7.91,11186,25,283,5
+liver,downregulated,GO:0009593,detection of chemical stimulus,3.51E-04,1.82E-02,7.91,11186,25,283,5
+liver,downregulated,GO:0043410,positive regulation of MAPK cascade,3.75E-04,1.94E-02,2.28,11186,364,283,21
+liver,downregulated,GO:0001776,leukocyte homeostasis,4.02E-04,2.07E-02,6.08,11186,39,283,6
+liver,downregulated,GO:0022604,regulation of cell morphogenesis,4.13E-04,2.12E-02,2.21,11186,393,283,22
+liver,downregulated,GO:0042327,positive regulation of phosphorylation,4.20E-04,2.15E-02,1.84,11186,732,283,34
+liver,downregulated,GO:0030890,positive regulation of B cell proliferation,4.25E-04,2.17E-02,7.6,11186,26,283,5
+liver,downregulated,GO:0038083,peptidyl-tyrosine autophosphorylation,4.25E-04,2.16E-02,7.6,11186,26,283,5
+liver,downregulated,GO:0034123,positive regulation of toll-like receptor signaling pathway,4.39E-04,2.23E-02,10.54,11186,15,283,4
+liver,downregulated,GO:0032897,negative regulation of viral transcription,4.39E-04,2.22E-02,10.54,11186,15,283,4
+liver,downregulated,GO:0002706,regulation of lymphocyte mediated immunity,4.40E-04,2.22E-02,3.95,11186,90,283,9
+liver,downregulated,GO:0071219,cellular response to molecule of bacterial origin,4.40E-04,2.21E-02,3.95,11186,90,283,9
+liver,downregulated,GO:0030198,extracellular matrix organization,4.54E-04,2.27E-02,2.6,11186,243,283,16
+liver,downregulated,GO:0099024,plasma membrane invagination,4.63E-04,2.31E-02,5.93,11186,40,283,6
+liver,downregulated,GO:0010942,positive regulation of cell death,4.86E-04,2.41E-02,2.03,11186,507,283,26
+liver,downregulated,GO:0002821,positive regulation of adaptive immune response,4.91E-04,2.43E-02,4.33,11186,73,283,8
+liver,downregulated,GO:0043627,response to estrogen,4.94E-04,2.44E-02,4.94,11186,56,283,7
+liver,downregulated,GO:2000106,regulation of leukocyte apoptotic process,4.94E-04,2.43E-02,4.94,11186,56,283,7
+liver,downregulated,GO:0001934,positive regulation of protein phosphorylation,5.12E-04,2.51E-02,1.86,11186,681,283,32
+liver,downregulated,GO:0002699,positive regulation of immune effector process,5.15E-04,2.52E-02,3.29,11186,132,283,11
+liver,downregulated,GO:0043062,extracellular structure organization,5.30E-04,2.58E-02,2.48,11186,271,283,17
+liver,downregulated,GO:0071346,cellular response to interferon-gamma,5.52E-04,2.68E-02,4.85,11186,57,283,7
+liver,downregulated,GO:0071624,positive regulation of granulocyte chemotaxis,5.74E-04,2.78E-02,9.88,11186,16,283,4
+liver,downregulated,GO:0002335,mature B cell differentiation,5.74E-04,2.77E-02,9.88,11186,16,283,4
+liver,downregulated,GO:0090023,positive regulation of neutrophil chemotaxis,5.74E-04,2.76E-02,9.88,11186,16,283,4
+liver,downregulated,GO:0032268,regulation of cellular protein metabolic process,5.83E-04,2.79E-02,1.46,11186,1841,283,68
+liver,downregulated,GO:0043900,regulation of multi-organism process,5.93E-04,2.83E-02,2.54,11186,249,283,16
+liver,downregulated,GO:0060548,negative regulation of cell death,5.96E-04,2.83E-02,1.84,11186,687,283,32
+liver,downregulated,GO:0032963,collagen metabolic process,6.06E-04,2.88E-02,5.65,11186,42,283,6
+liver,downregulated,GO:0046635,positive regulation of alpha-beta T cell activation,6.06E-04,2.87E-02,5.65,11186,42,283,6
+liver,downregulated,GO:0045595,regulation of cell differentiation,6.24E-04,2.94E-02,1.56,11186,1345,283,53
+liver,downregulated,GO:0071725,response to triacyl bacterial lipopeptide,6.38E-04,3.00E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0071727,cellular response to triacyl bacterial lipopeptide,6.38E-04,2.99E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0061517,macrophage proliferation,6.38E-04,2.98E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0061518,microglial cell proliferation,6.38E-04,2.97E-02,39.53,11186,2,283,2
+liver,downregulated,GO:2000458,regulation of astrocyte chemotaxis,6.38E-04,2.96E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0042495,detection of triacyl bacterial lipopeptide,6.38E-04,2.95E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0038112,interleukin-8-mediated signaling pathway,6.38E-04,2.94E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0038123,toll-like receptor TLR1:TLR2 signaling pathway,6.38E-04,2.93E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0086098,angiotensin-activated signaling pathway involved in heart process,6.38E-04,2.92E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0042268,regulation of cytolysis,6.38E-04,2.91E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0060443,mammary gland morphogenesis,6.38E-04,2.90E-02,39.53,11186,2,283,2
+liver,downregulated,GO:0051173,positive regulation of nitrogen compound metabolic process,6.90E-04,3.13E-02,1.4,11186,2232,283,79
+liver,downregulated,GO:0038093,Fc receptor signaling pathway,7.05E-04,3.19E-02,3.17,11186,137,283,11
+liver,downregulated,GO:0050715,positive regulation of cytokine secretion,7.05E-04,3.18E-02,4.11,11186,77,283,8
+liver,downregulated,GO:0042100,B cell proliferation,7.36E-04,3.31E-02,9.3,11186,17,283,4
+liver,downregulated,GO:0009612,response to mechanical stimulus,7.49E-04,3.36E-02,3.15,11186,138,283,11
+liver,downregulated,GO:0070372,regulation of ERK1 and ERK2 cascade,7.63E-04,3.41E-02,2.81,11186,183,283,13
+liver,downregulated,GO:0030168,platelet activation,7.69E-04,3.42E-02,4.05,11186,78,283,8
+liver,downregulated,GO:0045086,positive regulation of interleukin-2 biosynthetic process,8.17E-04,3.63E-02,14.82,11186,8,283,3
+liver,downregulated,GO:0038166,angiotensin-activated signaling pathway,8.17E-04,3.61E-02,14.82,11186,8,283,3
+liver,downregulated,GO:1905517,macrophage migration,8.17E-04,3.60E-02,14.82,11186,8,283,3
+liver,downregulated,GO:0032940,secretion by cell,8.32E-04,3.66E-02,1.83,11186,671,283,31
+liver,downregulated,GO:0010324,membrane invagination,8.83E-04,3.88E-02,5.27,11186,45,283,6
+liver,downregulated,GO:0002221,pattern recognition receptor signaling pathway,9.10E-04,3.98E-02,3.95,11186,80,283,8
+liver,downregulated,GO:0090022,regulation of neutrophil chemotaxis,9.27E-04,4.04E-02,8.78,11186,18,283,4
+liver,downregulated,GO:0009893,positive regulation of metabolic process,9.33E-04,4.06E-02,1.36,11186,2537,283,87
+liver,downregulated,GO:0031399,regulation of protein modification process,9.36E-04,4.06E-02,1.55,11186,1303,283,51
+liver,downregulated,GO:0071347,cellular response to interleukin-1,9.95E-04,4.30E-02,5.16,11186,46,283,6
+brain,downregulated,GO:0038041,cross-receptor inhibition within G protein-coupled receptor heterodimer,4.47E-04,1.00E+00,"2,237.20",11186,1,5,1
+brain,downregulated,GO:1905665,positive regulation of calcium ion import across plasma membrane,4.47E-04,1.00E+00,"2,237.20",11186,1,5,1
+brain,downregulated,GO:0002357,defense response to tumor cell,8.94E-04,1.00E+00,"1,118.60",11186,2,5,1
+brain,downregulated,GO:0002418,immune response to tumor cell,8.94E-04,1.00E+00,"1,118.60",11186,2,5,1
+brain,downregulated,GO:0097647,amylin receptor signaling pathway,8.94E-04,1.00E+00,"1,118.60",11186,2,5,1
+brain,downregulated,GO:1905664,regulation of calcium ion import across plasma membrane,8.94E-04,1.00E+00,"1,118.60",11186,2,5,1
